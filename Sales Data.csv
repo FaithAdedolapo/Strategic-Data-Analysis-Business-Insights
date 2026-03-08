@@ -1,0 +1,2101 @@
+Date,City,Customer Type,Channel,Product,Category,Unit Price,Quantity,Discount (%),Cost Price,SalesRepID
+2025-01-08,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,6,5,240000,6
+2025-01-12,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,7,15,240000,1
+2025-01-28,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,5,0,200000,6
+2025-04-14,Kano,Corporate,Online,Laptop A13,Electronics,420000,1,0,336000,3
+2025-04-18,Kano,Retail,Online,Blender B10,Home Appliances,30000,5,15,24000,2
+2025-02-10,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,15,144000,1
+2025-02-12,Kano,Retail,Online,Printer P50,Electronics,150000,3,15,120000,3
+2025-04-24,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,1,10,48000,4
+2025-01-11,Kano,Retail,Store,Laptop A13,Electronics,420000,5,0,336000,4
+2025-03-20,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,3,0,48000,3
+2025-04-16,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,1,0,240000,1
+2025-04-12,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,8,10,48000,4
+2025-02-16,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,6,12,256000,1
+2025-04-11,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,4,0,24000,3
+2025-04-16,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,9,12,176000,6
+2025-01-19,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,3,0,240000,4
+2025-02-07,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,2,5,256000,6
+2025-04-30,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,8,10,200000,3
+2025-03-22,Kano,Retail,Store,Office Chair Pro,Furniture,85000,10,5,68000,3
+2025-02-02,Kano,Retail,Store,Smartphone Z10,Electronics,250000,2,5,200000,1
+2025-03-16,Kano,Corporate,Online,Printer P50,Electronics,150000,4,10,120000,4
+2025-02-27,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,1,0,176000,3
+2025-04-08,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,12,240000,6
+2025-04-15,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,5,176000,3
+2025-02-09,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,5,68000,1
+2025-03-27,Kano,Retail,Online,Printer P50,Electronics,150000,2,5,120000,6
+2025-04-25,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,4,10,200000,3
+2025-01-05,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,10,48000,5
+2025-02-12,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,10,15,256000,4
+2025-03-09,Lagos,Corporate,Online,Laptop A13,Electronics,420000,10,5,336000,5
+2025-02-12,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,6,10,336000,2
+2025-03-20,Kano,Retail,Online,Office Chair Pro,Furniture,85000,4,0,68000,6
+2025-01-17,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,9,0,48000,5
+2025-01-25,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,8,15,240000,2
+2025-01-20,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,5,144000,4
+2025-01-05,Lagos,Retail,Store,Printer P50,Electronics,150000,9,10,120000,5
+2025-04-11,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,0,144000,6
+2025-03-06,Kano,Corporate,Store,Laptop A13,Electronics,420000,10,0,336000,3
+2025-02-23,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,8,0,24000,1
+2025-01-17,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,9,15,200000,5
+2025-01-07,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,10,5,48000,5
+2025-03-19,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,5,144000,3
+2025-03-22,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,9,12,176000,4
+2025-01-13,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,10,15,200000,6
+2025-04-09,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,1,12,336000,3
+2025-02-28,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,6,12,200000,5
+2025-03-17,Abuja,Retail,Store,Blender B10,Home Appliances,30000,2,10,24000,6
+2025-04-16,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,10,5,200000,6
+2025-02-14,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,6,5,68000,5
+2025-04-21,Abuja,Retail,Store,Blender B10,Home Appliances,30000,5,0,24000,1
+2025-03-22,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,12,144000,1
+2025-02-13,Kano,Retail,Online,Blender B10,Home Appliances,30000,6,15,24000,2
+2025-04-05,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,6,10,200000,6
+2025-04-18,Lagos,Retail,Store,Printer P50,Electronics,150000,3,10,120000,1
+2025-01-04,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,9,5,120000,5
+2025-03-14,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,10,144000,2
+2025-04-09,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,15,24000,3
+2025-01-03,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,12,144000,2
+2025-01-13,Abuja,Retail,Store,Laptop A13,Electronics,420000,3,15,336000,6
+2025-02-04,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,12,48000,4
+2025-03-13,Abuja,Retail,Store,Sofa Classic,Furniture,320000,8,5,256000,3
+2025-02-09,Lagos,Corporate,Store,Laptop A13,Electronics,420000,4,15,336000,3
+2025-04-06,Kano,Corporate,Online,Laptop A13,Electronics,420000,3,0,336000,6
+2025-03-26,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,15,176000,2
+2025-02-27,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,10,144000,4
+2025-01-11,Kano,Retail,Store,Blender B10,Home Appliances,30000,1,0,24000,2
+2025-02-27,Kano,Corporate,Online,Printer P50,Electronics,150000,4,5,120000,6
+2025-04-28,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,15,144000,4
+2025-03-06,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,8,12,200000,6
+2025-01-26,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,10,144000,2
+2025-03-14,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,10,15,200000,4
+2025-01-08,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,8,12,240000,6
+2025-02-06,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,8,15,240000,6
+2025-02-03,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,5,176000,2
+2025-04-04,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,15,144000,2
+2025-02-25,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,1,0,176000,6
+2025-01-13,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,1,15,176000,3
+2025-02-02,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,12,24000,5
+2025-04-06,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,1,0,240000,6
+2025-04-13,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,10,15,336000,6
+2025-03-03,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,6,10,24000,2
+2025-01-26,Abuja,Retail,Online,Printer P50,Electronics,150000,9,10,120000,2
+2025-02-01,Abuja,Corporate,Online,Laptop A13,Electronics,420000,4,0,336000,6
+2025-02-15,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,3,12,68000,3
+2025-03-26,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,7,10,144000,2
+2025-01-04,Abuja,Retail,Online,Sofa Classic,Furniture,320000,3,5,256000,4
+2025-04-25,Abuja,Retail,Store,Printer P50,Electronics,150000,1,12,120000,2
+2025-04-28,Abuja,Corporate,Store,Printer P50,Electronics,150000,5,5,120000,1
+2025-01-08,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,7,5,256000,2
+2025-01-13,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,10,336000,5
+2025-02-15,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,5,144000,2
+2025-04-10,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,9,15,240000,5
+2025-04-05,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,10,144000,5
+2025-02-06,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,9,10,336000,6
+2025-04-15,Kano,Corporate,Store,Printer P50,Electronics,150000,10,15,120000,5
+2025-04-08,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,0,144000,4
+2025-03-08,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,3,12,24000,3
+2025-03-11,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,0,176000,4
+2025-04-02,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,6,12,256000,6
+2025-03-06,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,15,144000,4
+2025-02-01,Abuja,Retail,Online,Printer P50,Electronics,150000,3,12,120000,2
+2025-01-30,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,6,5,176000,4
+2025-04-27,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,5,15,200000,6
+2025-04-01,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,3,15,200000,6
+2025-01-31,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,2,5,176000,1
+2025-04-19,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,5,176000,2
+2025-04-04,Lagos,Retail,Store,Laptop A13,Electronics,420000,4,0,336000,3
+2025-03-20,Abuja,Corporate,Online,Laptop A13,Electronics,420000,7,15,336000,4
+2025-04-15,Lagos,Corporate,Store,Printer P50,Electronics,150000,1,10,120000,1
+2025-03-05,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,5,12,68000,3
+2025-02-16,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,7,5,240000,6
+2025-03-06,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,15,176000,1
+2025-02-15,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,1,15,240000,1
+2025-01-25,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,4,5,176000,4
+2025-04-20,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,9,10,240000,3
+2025-03-06,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,3,10,336000,1
+2025-02-17,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,5,12,256000,4
+2025-04-28,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,5,5,256000,2
+2025-04-28,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,1,15,336000,4
+2025-01-11,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,3,15,24000,5
+2025-02-10,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,7,15,68000,2
+2025-03-15,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,8,0,200000,1
+2025-02-25,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,6,10,68000,5
+2025-01-05,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,2,15,48000,2
+2025-02-12,Lagos,Retail,Online,Printer P50,Electronics,150000,8,15,120000,1
+2025-04-01,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,2,5,176000,5
+2025-01-03,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,7,5,144000,3
+2025-02-09,Lagos,Retail,Store,Laptop A13,Electronics,420000,7,12,336000,2
+2025-01-21,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,3,0,68000,3
+2025-04-01,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,4,5,200000,1
+2025-01-20,Kano,Retail,Online,Office Chair Pro,Furniture,85000,7,5,68000,4
+2025-03-12,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,7,15,24000,3
+2025-02-18,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,15,24000,5
+2025-04-17,Abuja,Retail,Online,Blender B10,Home Appliances,30000,4,0,24000,2
+2025-02-11,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,1,0,240000,4
+2025-01-20,Abuja,Corporate,Store,Laptop A13,Electronics,420000,5,15,336000,2
+2025-01-11,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,5,144000,6
+2025-03-23,Abuja,Retail,Online,Blender B10,Home Appliances,30000,5,12,24000,4
+2025-02-19,Lagos,Retail,Store,Laptop A13,Electronics,420000,4,15,336000,5
+2025-01-25,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,0,144000,6
+2025-02-20,Kano,Corporate,Store,Sofa Classic,Furniture,320000,4,5,256000,3
+2025-04-24,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,15,144000,2
+2025-02-28,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,6,15,68000,4
+2025-02-27,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,2,0,240000,5
+2025-03-24,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,2,5,48000,6
+2025-02-19,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,10,176000,4
+2025-01-05,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,5,12,144000,5
+2025-02-06,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,2,10,68000,4
+2025-03-10,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,9,10,176000,5
+2025-01-22,Kano,Corporate,Store,Sofa Classic,Furniture,320000,2,5,256000,5
+2025-01-29,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,5,10,24000,3
+2025-03-11,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,5,12,200000,4
+2025-02-26,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,5,10,256000,5
+2025-01-25,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,1,12,176000,2
+2025-02-26,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,1,12,200000,5
+2025-04-01,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,6,5,68000,4
+2025-04-06,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,10,0,200000,2
+2025-03-25,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,15,176000,5
+2025-04-20,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,0,256000,4
+2025-02-11,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,6,5,48000,6
+2025-04-03,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,4,10,48000,4
+2025-03-11,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,2,12,200000,4
+2025-02-23,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,10,144000,5
+2025-02-20,Kano,Retail,Store,Desktop PC D21,Electronics,300000,2,10,240000,2
+2025-04-11,Kano,Corporate,Online,Blender B10,Home Appliances,30000,7,10,24000,3
+2025-04-05,Kano,Corporate,Store,Laptop A13,Electronics,420000,8,12,336000,6
+2025-04-15,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,0,144000,6
+2025-02-24,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,10,0,256000,2
+2025-03-20,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,10,144000,3
+2025-01-22,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,9,15,336000,6
+2025-04-01,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,0,144000,1
+2025-04-07,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,7,10,240000,1
+2025-02-15,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,10,10,24000,3
+2025-04-23,Kano,Retail,Online,Printer P50,Electronics,150000,5,12,120000,4
+2025-02-16,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,7,15,68000,2
+2025-03-11,Kano,Retail,Online,Microwave M20,Home Appliances,60000,7,5,48000,4
+2025-01-22,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,6,0,176000,6
+2025-01-09,Lagos,Retail,Online,Sofa Classic,Furniture,320000,1,15,256000,6
+2025-04-20,Kano,Corporate,Store,Sofa Classic,Furniture,320000,4,0,256000,2
+2025-01-12,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,6,15,240000,1
+2025-04-26,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,12,176000,4
+2025-03-08,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,5,12,200000,1
+2025-02-08,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,6,12,176000,3
+2025-02-26,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,12,120000,1
+2025-03-19,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,4,0,200000,5
+2025-04-12,Lagos,Retail,Online,Blender B10,Home Appliances,30000,1,12,24000,2
+2025-04-11,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,8,5,240000,3
+2025-04-28,Kano,Retail,Store,Printer P50,Electronics,150000,9,10,120000,3
+2025-02-07,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,7,12,24000,5
+2025-01-11,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,9,12,176000,2
+2025-01-03,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,0,144000,4
+2025-01-03,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,6,5,48000,5
+2025-03-10,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,8,5,176000,1
+2025-01-07,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,7,12,176000,1
+2025-01-28,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,6,15,68000,6
+2025-01-30,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,0,176000,6
+2025-01-11,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,4,5,176000,1
+2025-03-27,Kano,Retail,Store,Desktop PC D21,Electronics,300000,4,12,240000,5
+2025-02-03,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,9,12,200000,5
+2025-04-12,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,4,0,240000,5
+2025-04-08,Abuja,Retail,Online,Sofa Classic,Furniture,320000,8,10,256000,3
+2025-01-05,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,6,10,336000,3
+2025-03-14,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,2,5,176000,2
+2025-01-13,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,8,12,240000,1
+2025-03-27,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,6,15,48000,6
+2025-04-18,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,8,12,200000,1
+2025-02-14,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,5,0,48000,6
+2025-01-07,Abuja,Retail,Store,Sofa Classic,Furniture,320000,6,15,256000,4
+2025-02-17,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,4,5,240000,2
+2025-03-25,Kano,Corporate,Store,Blender B10,Home Appliances,30000,9,10,24000,2
+2025-01-09,Kano,Retail,Online,Smartphone Z10,Electronics,250000,9,10,200000,5
+2025-03-13,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,6,15,256000,4
+2025-02-16,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,10,336000,4
+2025-03-31,Kano,Retail,Store,Laptop A13,Electronics,420000,6,15,336000,4
+2025-04-11,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,10,12,24000,3
+2025-02-16,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,6,5,120000,1
+2025-01-28,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,5,240000,5
+2025-01-04,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,7,0,48000,3
+2025-03-03,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,4,12,256000,4
+2025-02-25,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,3,12,256000,1
+2025-01-16,Lagos,Retail,Online,Sofa Classic,Furniture,320000,8,15,256000,6
+2025-03-19,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,6,15,200000,2
+2025-04-24,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,6,5,200000,3
+2025-02-08,Abuja,Corporate,Online,Printer P50,Electronics,150000,4,12,120000,6
+2025-02-12,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,2,0,68000,3
+2025-04-06,Kano,Retail,Online,Blender B10,Home Appliances,30000,2,12,24000,1
+2025-02-22,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,8,12,240000,3
+2025-04-26,Lagos,Retail,Store,Sofa Classic,Furniture,320000,2,10,256000,1
+2025-03-31,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,10,24000,6
+2025-03-11,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,10,5,68000,2
+2025-02-04,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,5,0,24000,3
+2025-03-16,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,10,0,200000,4
+2025-04-12,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,4,15,176000,4
+2025-02-15,Kano,Retail,Store,Printer P50,Electronics,150000,6,12,120000,4
+2025-01-29,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,1,0,176000,5
+2025-04-19,Abuja,Retail,Online,Laptop A13,Electronics,420000,9,12,336000,1
+2025-03-03,Kano,Corporate,Store,Sofa Classic,Furniture,320000,2,15,256000,4
+2025-03-28,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,6,10,48000,5
+2025-02-06,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,5,15,240000,2
+2025-02-02,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,8,12,24000,4
+2025-03-17,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,15,144000,5
+2025-01-11,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,7,5,68000,2
+2025-04-11,Kano,Retail,Store,Sofa Classic,Furniture,320000,2,5,256000,5
+2025-03-26,Kano,Retail,Store,Desktop PC D21,Electronics,300000,1,12,240000,2
+2025-02-22,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,6,12,240000,3
+2025-02-16,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,15,240000,1
+2025-02-07,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,15,144000,3
+2025-03-30,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,9,0,240000,1
+2025-04-09,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,5,15,176000,2
+2025-02-26,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,8,5,68000,1
+2025-02-08,Kano,Retail,Online,Office Chair Pro,Furniture,85000,4,12,68000,2
+2025-01-05,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,2,5,240000,3
+2025-04-23,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,3,12,256000,6
+2025-03-31,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,9,0,200000,6
+2025-02-05,Abuja,Corporate,Store,Printer P50,Electronics,150000,7,10,120000,2
+2025-03-31,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,3,0,68000,3
+2025-01-27,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,10,10,68000,1
+2025-01-21,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,15,144000,1
+2025-03-17,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,9,5,120000,6
+2025-04-23,Kano,Retail,Store,Blender B10,Home Appliances,30000,6,10,24000,1
+2025-03-28,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,10,144000,3
+2025-04-22,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,1,10,48000,6
+2025-01-05,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,5,0,68000,5
+2025-01-17,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,7,10,200000,2
+2025-04-19,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,4,15,240000,2
+2025-01-10,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,12,144000,3
+2025-03-08,Abuja,Retail,Online,Blender B10,Home Appliances,30000,2,0,24000,3
+2025-04-27,Abuja,Corporate,Online,Laptop A13,Electronics,420000,4,5,336000,6
+2025-02-24,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,5,15,256000,1
+2025-02-15,Kano,Corporate,Store,Printer P50,Electronics,150000,5,15,120000,5
+2025-03-21,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,15,176000,5
+2025-03-02,Kano,Retail,Store,Sofa Classic,Furniture,320000,7,0,256000,4
+2025-02-25,Lagos,Corporate,Online,Laptop A13,Electronics,420000,10,10,336000,2
+2025-02-05,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,8,5,24000,2
+2025-03-28,Lagos,Retail,Online,Laptop A13,Electronics,420000,6,12,336000,4
+2025-03-15,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,2,15,176000,3
+2025-01-26,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,1,15,68000,1
+2025-02-04,Lagos,Retail,Online,Printer P50,Electronics,150000,8,15,120000,3
+2025-02-11,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,5,15,240000,6
+2025-01-30,Kano,Retail,Online,Microwave M20,Home Appliances,60000,10,10,48000,4
+2025-04-27,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,3,5,256000,3
+2025-03-12,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,7,15,200000,4
+2025-03-10,Kano,Corporate,Online,Blender B10,Home Appliances,30000,3,10,24000,6
+2025-01-19,Abuja,Retail,Online,Printer P50,Electronics,150000,3,15,120000,6
+2025-02-27,Kano,Retail,Store,Office Chair Pro,Furniture,85000,2,10,68000,4
+2025-01-14,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,12,144000,1
+2025-02-14,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,7,12,200000,2
+2025-02-19,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,6,15,176000,3
+2025-01-15,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,4,10,48000,1
+2025-02-28,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,0,144000,5
+2025-04-23,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,3,0,256000,3
+2025-02-08,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,2,5,48000,2
+2025-04-17,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,15,144000,4
+2025-01-30,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,4,0,240000,3
+2025-04-11,Lagos,Corporate,Online,Printer P50,Electronics,150000,10,15,120000,4
+2025-04-25,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,3,0,68000,6
+2025-01-23,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,10,176000,4
+2025-03-18,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,7,0,24000,2
+2025-01-01,Kano,Retail,Store,Desktop PC D21,Electronics,300000,9,5,240000,6
+2025-02-06,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,1,0,200000,1
+2025-04-27,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,7,0,48000,2
+2025-02-10,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,10,12,240000,6
+2025-04-28,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,4,5,256000,4
+2025-04-17,Kano,Retail,Online,Sofa Classic,Furniture,320000,5,15,256000,6
+2025-04-29,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,12,144000,4
+2025-03-22,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,6,10,240000,6
+2025-02-20,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,2,10,24000,4
+2025-02-08,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,9,5,48000,1
+2025-02-18,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,9,5,200000,5
+2025-02-05,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,4,10,336000,3
+2025-04-25,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,5,5,200000,1
+2025-04-13,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,12,144000,3
+2025-03-20,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,1,0,240000,3
+2025-02-16,Abuja,Retail,Online,Laptop A13,Electronics,420000,9,15,336000,5
+2025-03-20,Lagos,Retail,Online,Sofa Classic,Furniture,320000,8,5,256000,1
+2025-04-05,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,1,0,48000,1
+2025-01-07,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,9,0,68000,4
+2025-01-11,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,6,12,240000,6
+2025-04-26,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,2,10,24000,2
+2025-02-05,Abuja,Corporate,Online,Laptop A13,Electronics,420000,9,12,336000,2
+2025-03-09,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,4,5,200000,4
+2025-01-23,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,8,15,256000,3
+2025-01-16,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,15,336000,6
+2025-02-07,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,1,5,24000,5
+2025-03-05,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,2,10,240000,3
+2025-03-20,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,2,12,48000,2
+2025-02-10,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,8,10,256000,3
+2025-04-14,Kano,Corporate,Store,Blender B10,Home Appliances,30000,2,15,24000,6
+2025-03-21,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,9,5,24000,5
+2025-04-08,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,3,5,144000,4
+2025-04-29,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,5,144000,5
+2025-03-07,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,9,12,24000,1
+2025-02-13,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,3,15,48000,4
+2025-04-01,Lagos,Corporate,Store,Laptop A13,Electronics,420000,7,0,336000,1
+2025-01-02,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,4,5,240000,4
+2025-03-20,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,7,15,256000,5
+2025-01-23,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,1,5,256000,2
+2025-01-12,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,7,5,48000,2
+2025-04-09,Lagos,Retail,Store,Laptop A13,Electronics,420000,2,12,336000,3
+2025-03-31,Lagos,Retail,Store,Blender B10,Home Appliances,30000,3,10,24000,5
+2025-02-11,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,5,5,200000,3
+2025-04-28,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,8,15,68000,3
+2025-01-30,Lagos,Retail,Online,Sofa Classic,Furniture,320000,8,0,256000,6
+2025-03-18,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,3,5,176000,3
+2025-03-17,Kano,Corporate,Online,Sofa Classic,Furniture,320000,1,10,256000,4
+2025-02-02,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,2,15,240000,6
+2025-03-27,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,8,15,176000,3
+2025-03-18,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,9,15,176000,6
+2025-02-16,Lagos,Corporate,Store,Printer P50,Electronics,150000,9,0,120000,4
+2025-02-04,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,0,144000,5
+2025-01-20,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,4,0,336000,3
+2025-01-25,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,5,144000,1
+2025-03-28,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,4,10,120000,6
+2025-04-28,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,6,5,200000,4
+2025-02-13,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,8,0,176000,5
+2025-03-24,Lagos,Corporate,Store,Printer P50,Electronics,150000,10,10,120000,6
+2025-02-24,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,6,10,240000,1
+2025-02-15,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,4,12,68000,4
+2025-04-01,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,7,5,48000,1
+2025-01-09,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,0,144000,4
+2025-01-25,Kano,Corporate,Store,Laptop A13,Electronics,420000,10,15,336000,1
+2025-02-21,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,12,336000,1
+2025-03-02,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,10,12,48000,3
+2025-01-28,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,10,15,176000,2
+2025-04-16,Kano,Corporate,Online,Blender B10,Home Appliances,30000,6,15,24000,5
+2025-03-30,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,10,15,48000,3
+2025-01-15,Kano,Retail,Store,Blender B10,Home Appliances,30000,10,5,24000,4
+2025-04-30,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,8,0,200000,1
+2025-03-25,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,6,10,68000,5
+2025-03-11,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,4,0,68000,6
+2025-02-17,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,3,0,200000,2
+2025-03-24,Kano,Retail,Online,Smartphone Z10,Electronics,250000,3,15,200000,3
+2025-04-07,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,12,336000,4
+2025-03-26,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,5,15,256000,5
+2025-04-21,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,10,15,68000,4
+2025-01-05,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,10,15,200000,5
+2025-01-24,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,7,12,256000,6
+2025-02-02,Kano,Retail,Online,Smartphone Z10,Electronics,250000,2,10,200000,5
+2025-01-29,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,0,144000,4
+2025-04-23,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,0,176000,4
+2025-03-16,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,3,12,200000,2
+2025-02-07,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,10,144000,6
+2025-02-10,Abuja,Retail,Store,Laptop A13,Electronics,420000,9,15,336000,6
+2025-01-30,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,7,0,336000,4
+2025-03-15,Abuja,Retail,Online,Printer P50,Electronics,150000,5,5,120000,1
+2025-04-07,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,2,0,200000,3
+2025-03-18,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,2,0,48000,4
+2025-01-08,Kano,Corporate,Store,Sofa Classic,Furniture,320000,5,0,256000,6
+2025-02-05,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,4,10,48000,3
+2025-01-07,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,0,144000,3
+2025-03-03,Abuja,Corporate,Online,Laptop A13,Electronics,420000,9,5,336000,3
+2025-01-01,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,8,15,176000,2
+2025-03-12,Lagos,Retail,Store,Printer P50,Electronics,150000,8,15,120000,6
+2025-01-12,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,5,10,240000,3
+2025-02-22,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,7,0,240000,2
+2025-03-12,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,5,5,200000,1
+2025-03-30,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,4,12,176000,5
+2025-01-21,Abuja,Corporate,Online,Laptop A13,Electronics,420000,3,5,336000,4
+2025-02-23,Lagos,Retail,Online,Blender B10,Home Appliances,30000,3,0,24000,6
+2025-01-03,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,0,144000,6
+2025-03-31,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,5,12,176000,4
+2025-03-22,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,2,5,200000,6
+2025-01-14,Lagos,Corporate,Store,Laptop A13,Electronics,420000,8,5,336000,4
+2025-03-31,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,4,12,24000,3
+2025-01-24,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,7,15,256000,3
+2025-04-29,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,9,10,176000,1
+2025-03-13,Kano,Retail,Online,Printer P50,Electronics,150000,4,5,120000,1
+2025-04-14,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,5,120000,1
+2025-01-17,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,15,336000,6
+2025-02-09,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,8,10,256000,2
+2025-03-20,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,6,15,256000,4
+2025-02-05,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,5,5,336000,5
+2025-01-16,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,15,240000,5
+2025-04-02,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,4,5,68000,6
+2025-01-16,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,2,12,68000,2
+2025-01-09,Lagos,Corporate,Store,Laptop A13,Electronics,420000,4,0,336000,2
+2025-03-01,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,4,0,24000,4
+2025-04-07,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,5,12,240000,5
+2025-04-06,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,1,12,176000,4
+2025-04-21,Lagos,Corporate,Online,Printer P50,Electronics,150000,8,0,120000,6
+2025-03-19,Lagos,Retail,Online,Blender B10,Home Appliances,30000,2,0,24000,6
+2025-02-21,Kano,Retail,Online,Office Chair Pro,Furniture,85000,9,5,68000,2
+2025-02-16,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,5,12,200000,1
+2025-01-05,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,10,5,256000,3
+2025-01-21,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,1,0,24000,5
+2025-04-26,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,5,5,144000,5
+2025-01-14,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,8,10,48000,3
+2025-04-23,Kano,Retail,Store,Printer P50,Electronics,150000,10,10,120000,6
+2025-02-13,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,10,15,240000,5
+2025-04-16,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,1,15,240000,2
+2025-02-25,Kano,Corporate,Online,Sofa Classic,Furniture,320000,6,0,256000,4
+2025-04-13,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,8,12,48000,3
+2025-03-22,Kano,Retail,Store,Laptop A13,Electronics,420000,3,0,336000,1
+2025-02-14,Lagos,Retail,Store,Sofa Classic,Furniture,320000,8,5,256000,5
+2025-03-20,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,5,15,68000,2
+2025-01-24,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,6,10,176000,4
+2025-03-12,Lagos,Corporate,Store,Laptop A13,Electronics,420000,3,12,336000,3
+2025-04-16,Kano,Corporate,Online,Sofa Classic,Furniture,320000,2,15,256000,6
+2025-02-25,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,10,176000,2
+2025-02-21,Lagos,Retail,Store,Printer P50,Electronics,150000,4,12,120000,2
+2025-01-01,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,4,15,176000,5
+2025-04-29,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,12,144000,1
+2025-02-18,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,2,12,68000,3
+2025-03-21,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,12,176000,2
+2025-02-06,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,6,12,200000,3
+2025-04-15,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,4,0,48000,2
+2025-04-23,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,15,144000,5
+2025-04-13,Lagos,Retail,Online,Printer P50,Electronics,150000,7,12,120000,5
+2025-04-03,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,2,5,68000,4
+2025-02-10,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,9,0,240000,5
+2025-02-01,Kano,Corporate,Store,Blender B10,Home Appliances,30000,3,15,24000,2
+2025-01-21,Kano,Retail,Online,Laptop A13,Electronics,420000,5,5,336000,5
+2025-04-18,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,12,144000,2
+2025-03-05,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,9,0,176000,6
+2025-03-11,Abuja,Retail,Store,Sofa Classic,Furniture,320000,4,0,256000,3
+2025-03-04,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,4,0,68000,4
+2025-01-11,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,6,5,48000,4
+2025-01-03,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,10,144000,6
+2025-04-17,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,10,10,240000,5
+2025-01-18,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,9,5,48000,5
+2025-02-04,Lagos,Corporate,Store,Laptop A13,Electronics,420000,1,5,336000,2
+2025-03-15,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,10,15,200000,2
+2025-03-09,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,9,0,200000,4
+2025-01-13,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,1,12,48000,6
+2025-01-02,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,2,0,68000,1
+2025-01-13,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,7,15,240000,1
+2025-03-01,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,4,15,200000,1
+2025-02-13,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,4,12,24000,1
+2025-03-31,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,9,0,176000,2
+2025-02-27,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,10,0,256000,1
+2025-01-05,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,2,5,256000,2
+2025-03-07,Kano,Retail,Store,Sofa Classic,Furniture,320000,2,15,256000,1
+2025-03-17,Kano,Retail,Store,Laptop A13,Electronics,420000,10,5,336000,1
+2025-04-15,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,12,144000,5
+2025-04-16,Lagos,Retail,Store,Laptop A13,Electronics,420000,4,15,336000,2
+2025-02-27,Abuja,Corporate,Store,Printer P50,Electronics,150000,5,15,120000,1
+2025-03-10,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,0,144000,5
+2025-02-10,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,6,10,256000,4
+2025-04-11,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,10,5,200000,6
+2025-02-25,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,9,15,68000,1
+2025-03-07,Lagos,Corporate,Online,Printer P50,Electronics,150000,9,15,120000,2
+2025-01-01,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,9,10,48000,4
+2025-02-25,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,12,144000,3
+2025-04-21,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,10,0,336000,1
+2025-03-03,Kano,Corporate,Online,Blender B10,Home Appliances,30000,3,15,24000,2
+2025-02-17,Kano,Corporate,Store,Sofa Classic,Furniture,320000,10,0,256000,2
+2025-03-20,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,10,12,68000,2
+2025-04-22,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,4,5,48000,2
+2025-03-28,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,5,144000,2
+2025-03-18,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,8,5,240000,5
+2025-04-25,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,2,15,200000,6
+2025-04-05,Kano,Retail,Store,Blender B10,Home Appliances,30000,1,10,24000,6
+2025-03-24,Abuja,Corporate,Store,Printer P50,Electronics,150000,9,10,120000,6
+2025-01-06,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,1,12,176000,4
+2025-01-02,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,5,12,24000,3
+2025-03-24,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,5,5,120000,3
+2025-04-13,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,3,0,200000,5
+2025-02-20,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,3,5,200000,3
+2025-03-28,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,2,5,200000,3
+2025-02-03,Kano,Retail,Online,Laptop A13,Electronics,420000,8,0,336000,1
+2025-03-03,Kano,Corporate,Store,Laptop A13,Electronics,420000,3,5,336000,1
+2025-02-13,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,7,0,68000,6
+2025-02-10,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,5,10,68000,3
+2025-03-25,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,4,15,200000,1
+2025-01-02,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,1,12,176000,1
+2025-03-18,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,10,0,240000,6
+2025-01-08,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,0,256000,6
+2025-03-29,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,8,15,68000,2
+2025-02-13,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,12,336000,4
+2025-02-14,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,10,336000,4
+2025-03-09,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,9,15,24000,3
+2025-02-23,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,4,5,240000,4
+2025-03-14,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,2,12,200000,2
+2025-03-13,Abuja,Retail,Online,Printer P50,Electronics,150000,10,5,120000,4
+2025-02-02,Lagos,Retail,Store,Blender B10,Home Appliances,30000,2,10,24000,4
+2025-01-30,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,12,336000,4
+2025-01-02,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,4,15,48000,5
+2025-03-30,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,3,5,24000,2
+2025-04-01,Kano,Retail,Store,Blender B10,Home Appliances,30000,4,10,24000,5
+2025-03-29,Abuja,Retail,Online,Printer P50,Electronics,150000,5,12,120000,2
+2025-01-12,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,7,10,200000,5
+2025-04-01,Kano,Retail,Online,Microwave M20,Home Appliances,60000,9,15,48000,5
+2025-04-14,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,7,15,68000,2
+2025-01-01,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,5,12,48000,6
+2025-01-05,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,15,176000,2
+2025-02-23,Abuja,Retail,Store,Laptop A13,Electronics,420000,8,12,336000,4
+2025-01-23,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,12,176000,4
+2025-03-28,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,8,15,48000,6
+2025-01-14,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,10,0,200000,4
+2025-02-01,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,8,5,336000,3
+2025-03-14,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,6,15,24000,4
+2025-01-11,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,2,10,200000,4
+2025-04-03,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,5,12,48000,5
+2025-02-15,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,10,10,256000,4
+2025-04-17,Kano,Retail,Store,Smartphone Z10,Electronics,250000,9,0,200000,6
+2025-01-01,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,2,12,48000,3
+2025-03-17,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,3,5,24000,1
+2025-04-07,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,5,144000,3
+2025-03-23,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,7,0,240000,1
+2025-03-28,Abuja,Retail,Store,Printer P50,Electronics,150000,7,5,120000,3
+2025-02-20,Kano,Corporate,Online,Sofa Classic,Furniture,320000,4,10,256000,6
+2025-04-19,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,7,15,68000,4
+2025-01-27,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,10,10,336000,2
+2025-03-26,Kano,Corporate,Store,Blender B10,Home Appliances,30000,2,15,24000,3
+2025-02-13,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,9,12,256000,3
+2025-02-25,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,6,5,240000,6
+2025-01-03,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,4,15,68000,1
+2025-02-13,Lagos,Retail,Online,Blender B10,Home Appliances,30000,3,0,24000,1
+2025-04-11,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,8,12,48000,2
+2025-02-28,Abuja,Corporate,Online,Printer P50,Electronics,150000,9,12,120000,6
+2025-02-11,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,7,0,256000,1
+2025-01-29,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,10,144000,2
+2025-01-02,Lagos,Corporate,Online,Printer P50,Electronics,150000,10,5,120000,2
+2025-02-27,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,9,15,24000,2
+2025-03-24,Kano,Retail,Online,Desktop PC D21,Electronics,300000,10,12,240000,6
+2025-02-11,Abuja,Corporate,Online,Laptop A13,Electronics,420000,10,12,336000,4
+2025-01-11,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,5,5,336000,5
+2025-02-07,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,4,10,200000,2
+2025-04-29,Kano,Retail,Online,Sofa Classic,Furniture,320000,7,5,256000,6
+2025-02-13,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,6,10,240000,1
+2025-02-08,Kano,Retail,Store,Microwave M20,Home Appliances,60000,9,5,48000,1
+2025-03-19,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,9,15,336000,2
+2025-03-30,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,1,12,48000,3
+2025-04-26,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,5,0,176000,6
+2025-01-29,Kano,Retail,Store,Desktop PC D21,Electronics,300000,4,12,240000,5
+2025-04-11,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,4,0,176000,6
+2025-01-01,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,4,15,256000,1
+2025-01-02,Lagos,Retail,Store,Sofa Classic,Furniture,320000,5,15,256000,5
+2025-03-29,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,0,144000,5
+2025-01-02,Kano,Corporate,Store,Sofa Classic,Furniture,320000,1,15,256000,6
+2025-02-15,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,5,144000,6
+2025-04-27,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,10,24000,5
+2025-02-20,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,10,176000,2
+2025-01-27,Lagos,Retail,Store,Printer P50,Electronics,150000,9,5,120000,4
+2025-03-05,Lagos,Retail,Store,Sofa Classic,Furniture,320000,7,5,256000,2
+2025-03-05,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,7,0,48000,4
+2025-01-27,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,10,176000,1
+2025-01-09,Abuja,Retail,Online,Laptop A13,Electronics,420000,10,10,336000,3
+2025-02-27,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,8,10,240000,6
+2025-02-13,Abuja,Retail,Online,Laptop A13,Electronics,420000,6,12,336000,6
+2025-02-16,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,1,0,24000,1
+2025-03-02,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,1,10,68000,3
+2025-04-01,Kano,Retail,Online,Blender B10,Home Appliances,30000,1,0,24000,3
+2025-04-14,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,12,200000,5
+2025-02-28,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,4,5,200000,5
+2025-01-23,Kano,Retail,Online,Microwave M20,Home Appliances,60000,10,15,48000,6
+2025-02-13,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,5,12,68000,5
+2025-02-04,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,5,144000,2
+2025-01-05,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,4,0,256000,4
+2025-02-02,Kano,Retail,Store,Sofa Classic,Furniture,320000,2,12,256000,1
+2025-02-17,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,1,12,24000,6
+2025-02-23,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,3,0,200000,1
+2025-02-10,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,1,10,256000,4
+2025-03-10,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,9,15,68000,1
+2025-01-19,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,4,5,48000,2
+2025-02-07,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,0,144000,5
+2025-02-09,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,9,5,68000,1
+2025-02-20,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,8,10,176000,5
+2025-04-16,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,5,12,68000,6
+2025-02-10,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,3,0,176000,6
+2025-03-22,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,4,0,68000,4
+2025-02-11,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,4,5,48000,1
+2025-04-28,Lagos,Retail,Online,Sofa Classic,Furniture,320000,8,15,256000,4
+2025-04-18,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,4,10,48000,6
+2025-03-29,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,7,0,200000,1
+2025-02-08,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,12,144000,1
+2025-04-22,Abuja,Corporate,Online,Printer P50,Electronics,150000,7,10,120000,6
+2025-02-09,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,5,176000,5
+2025-02-08,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,6,15,240000,1
+2025-04-05,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,1,5,68000,2
+2025-03-09,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,5,144000,5
+2025-03-19,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,3,0,176000,6
+2025-03-25,Kano,Corporate,Store,Laptop A13,Electronics,420000,2,5,336000,5
+2025-02-09,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,3,10,240000,4
+2025-04-30,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,15,68000,3
+2025-04-23,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,3,0,120000,1
+2025-02-22,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,2,12,200000,4
+2025-01-09,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,12,144000,3
+2025-02-04,Lagos,Corporate,Online,Laptop A13,Electronics,420000,10,0,336000,3
+2025-01-11,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,10,144000,2
+2025-04-04,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,4,15,48000,5
+2025-02-08,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,3,0,336000,6
+2025-04-05,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,8,12,48000,6
+2025-04-22,Kano,Corporate,Store,Laptop A13,Electronics,420000,1,0,336000,5
+2025-04-05,Abuja,Retail,Store,Blender B10,Home Appliances,30000,9,5,24000,3
+2025-04-29,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,10,15,240000,1
+2025-02-23,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,3,5,120000,6
+2025-04-29,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,6,15,200000,3
+2025-04-12,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,3,10,68000,2
+2025-03-26,Abuja,Retail,Online,Blender B10,Home Appliances,30000,9,12,24000,3
+2025-01-08,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,4,12,120000,4
+2025-01-01,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,7,5,200000,2
+2025-02-27,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,1,10,256000,5
+2025-03-01,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,5,10,256000,6
+2025-03-27,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,6,15,240000,2
+2025-01-25,Kano,Retail,Store,Laptop A13,Electronics,420000,4,10,336000,4
+2025-02-03,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,12,144000,3
+2025-01-22,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,1,10,68000,3
+2025-01-02,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,10,144000,2
+2025-03-29,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,5,5,48000,4
+2025-03-23,Lagos,Corporate,Online,Printer P50,Electronics,150000,1,0,120000,6
+2025-04-29,Kano,Corporate,Online,Laptop A13,Electronics,420000,9,5,336000,6
+2025-04-23,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,7,10,144000,1
+2025-04-16,Kano,Retail,Online,Blender B10,Home Appliances,30000,7,5,24000,4
+2025-01-22,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,2,10,68000,1
+2025-01-01,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,10,48000,5
+2025-01-13,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,2,10,24000,3
+2025-03-12,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,2,12,24000,1
+2025-03-14,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,3,0,68000,1
+2025-01-08,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,7,0,200000,2
+2025-04-16,Kano,Retail,Store,Sofa Classic,Furniture,320000,3,10,256000,1
+2025-03-03,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,7,12,200000,5
+2025-02-19,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,3,12,256000,3
+2025-01-01,Lagos,Corporate,Online,Laptop A13,Electronics,420000,10,0,336000,6
+2025-03-07,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,3,0,240000,4
+2025-04-25,Abuja,Corporate,Store,Laptop A13,Electronics,420000,9,12,336000,1
+2025-05-01,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,6,15,48000,3
+2025-02-20,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,8,15,256000,1
+2025-03-11,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,3,15,200000,4
+2025-05-01,Lagos,Corporate,Store,Laptop A13,Electronics,420000,9,10,336000,5
+2025-03-10,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,10,10,240000,6
+2025-03-22,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,0,144000,1
+2025-04-01,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,4,5,68000,2
+2025-04-15,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,12,176000,2
+2025-01-27,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,10,12,240000,3
+2025-01-26,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,10,5,24000,5
+2025-01-10,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,10,144000,1
+2025-02-18,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,5,0,68000,1
+2025-04-09,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,2,12,200000,2
+2025-01-22,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,2,15,68000,5
+2025-02-11,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,6,5,48000,5
+2025-02-25,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,12,144000,6
+2025-03-01,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,7,15,240000,6
+2025-02-06,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,4,12,240000,5
+2025-02-01,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,12,144000,1
+2025-01-14,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,10,144000,2
+2025-01-28,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,8,15,336000,2
+2025-03-04,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,5,120000,3
+2025-04-21,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,7,10,200000,2
+2025-04-11,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,10,12,256000,3
+2025-01-05,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,4,15,256000,1
+2025-02-17,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,9,12,200000,4
+2025-04-21,Kano,Retail,Online,Printer P50,Electronics,150000,1,5,120000,5
+2025-03-02,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,15,176000,3
+2025-01-01,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,9,12,48000,3
+2025-01-03,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,7,15,200000,4
+2025-02-23,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,2,12,48000,3
+2025-02-25,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,0,144000,2
+2025-04-15,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,3,5,48000,5
+2025-03-11,Lagos,Retail,Online,Blender B10,Home Appliances,30000,2,15,24000,3
+2025-03-10,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,8,12,200000,1
+2025-02-22,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,9,12,68000,4
+2025-03-21,Lagos,Retail,Store,Sofa Classic,Furniture,320000,5,15,256000,4
+2025-03-11,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,6,12,24000,5
+2025-02-19,Abuja,Corporate,Online,Printer P50,Electronics,150000,10,0,120000,1
+2025-01-19,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,6,10,68000,3
+2025-04-02,Kano,Retail,Store,Sofa Classic,Furniture,320000,8,5,256000,2
+2025-02-03,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,12,256000,3
+2025-04-19,Kano,Retail,Store,Microwave M20,Home Appliances,60000,9,12,48000,2
+2025-02-16,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,2,5,176000,3
+2025-03-18,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,6,5,200000,1
+2025-03-10,Kano,Corporate,Store,Sofa Classic,Furniture,320000,10,15,256000,3
+2025-01-04,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,15,144000,3
+2025-03-02,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,5,12,200000,6
+2025-01-29,Abuja,Retail,Online,Blender B10,Home Appliances,30000,7,12,24000,1
+2025-01-17,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,4,0,200000,1
+2025-04-13,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,5,5,68000,4
+2025-02-05,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,7,12,144000,5
+2025-02-08,Kano,Corporate,Store,Laptop A13,Electronics,420000,6,0,336000,5
+2025-03-12,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,1,10,240000,2
+2025-01-10,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,6,12,120000,5
+2025-03-26,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,12,144000,3
+2025-04-06,Lagos,Retail,Store,Sofa Classic,Furniture,320000,7,0,256000,4
+2025-02-04,Abuja,Corporate,Online,Laptop A13,Electronics,420000,4,5,336000,5
+2025-02-10,Lagos,Retail,Store,Laptop A13,Electronics,420000,6,15,336000,1
+2025-04-29,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,4,0,176000,5
+2025-04-21,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,10,10,68000,2
+2025-02-28,Abuja,Corporate,Online,Laptop A13,Electronics,420000,7,12,336000,4
+2025-02-05,Kano,Corporate,Store,Blender B10,Home Appliances,30000,7,0,24000,6
+2025-03-13,Kano,Retail,Online,Printer P50,Electronics,150000,5,15,120000,3
+2025-04-28,Kano,Retail,Online,Office Chair Pro,Furniture,85000,2,10,68000,6
+2025-04-28,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,5,15,48000,5
+2025-01-29,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,0,144000,3
+2025-04-12,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,4,15,176000,4
+2025-04-30,Kano,Retail,Online,Office Chair Pro,Furniture,85000,7,15,68000,3
+2025-02-10,Lagos,Retail,Store,Sofa Classic,Furniture,320000,4,10,256000,5
+2025-02-02,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,2,5,68000,3
+2025-04-15,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,9,12,48000,6
+2025-02-05,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,4,12,200000,5
+2025-03-19,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,10,5,120000,1
+2025-01-28,Abuja,Corporate,Online,Printer P50,Electronics,150000,6,12,120000,1
+2025-03-31,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,4,5,176000,5
+2025-04-28,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,8,0,256000,2
+2025-02-07,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,8,12,256000,5
+2025-02-21,Kano,Corporate,Store,Laptop A13,Electronics,420000,1,0,336000,1
+2025-04-30,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,1,0,68000,6
+2025-04-13,Lagos,Retail,Online,Printer P50,Electronics,150000,8,0,120000,5
+2025-03-21,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,8,15,240000,6
+2025-05-01,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,1,12,240000,6
+2025-01-29,Kano,Corporate,Store,Blender B10,Home Appliances,30000,2,10,24000,1
+2025-02-13,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,6,15,24000,4
+2025-04-28,Lagos,Retail,Online,Sofa Classic,Furniture,320000,4,15,256000,3
+2025-04-04,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,5,0,48000,1
+2025-04-21,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,1,10,256000,5
+2025-04-05,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,12,176000,4
+2025-03-30,Lagos,Retail,Online,Sofa Classic,Furniture,320000,4,0,256000,6
+2025-02-20,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,15,176000,2
+2025-03-02,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,1,15,256000,6
+2025-05-01,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,3,0,200000,5
+2025-03-12,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,12,176000,1
+2025-01-01,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,10,12,240000,5
+2025-02-22,Abuja,Retail,Online,Sofa Classic,Furniture,320000,7,0,256000,5
+2025-01-26,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,1,0,256000,4
+2025-03-27,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,4,0,68000,6
+2025-03-06,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,5,10,256000,3
+2025-01-05,Lagos,Retail,Online,Sofa Classic,Furniture,320000,9,5,256000,5
+2025-04-28,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,5,144000,4
+2025-01-21,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,7,10,240000,5
+2025-02-25,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,7,15,144000,2
+2025-01-27,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,5,176000,2
+2025-04-08,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,7,15,240000,6
+2025-03-26,Kano,Retail,Online,Sofa Classic,Furniture,320000,10,0,256000,3
+2025-03-23,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,5,0,240000,4
+2025-03-06,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,10,144000,5
+2025-02-11,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,2,0,200000,3
+2025-01-13,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,8,15,48000,6
+2025-04-07,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,2,10,68000,6
+2025-04-02,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,6,12,200000,3
+2025-03-27,Lagos,Corporate,Store,Printer P50,Electronics,150000,3,5,120000,3
+2025-04-03,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,5,5,176000,1
+2025-02-15,Lagos,Corporate,Store,Laptop A13,Electronics,420000,1,5,336000,3
+2025-01-19,Abuja,Retail,Store,Printer P50,Electronics,150000,4,0,120000,2
+2025-01-03,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,1,5,68000,4
+2025-02-21,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,4,12,200000,3
+2025-02-09,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,8,0,48000,3
+2025-02-22,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,5,240000,5
+2025-02-12,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,0,336000,5
+2025-03-21,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,3,0,336000,6
+2025-02-03,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,7,5,256000,6
+2025-03-26,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,15,144000,6
+2025-03-15,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,4,10,24000,2
+2025-03-15,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,4,15,68000,4
+2025-03-19,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,3,5,256000,1
+2025-03-24,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,1,12,48000,4
+2025-02-26,Kano,Corporate,Store,Printer P50,Electronics,150000,7,15,120000,2
+2025-02-02,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,7,15,256000,5
+2025-01-15,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,9,12,256000,4
+2025-04-30,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,15,176000,6
+2025-04-02,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,6,5,240000,6
+2025-01-13,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,8,10,200000,6
+2025-03-12,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,5,15,48000,4
+2025-04-21,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,7,0,336000,1
+2025-02-20,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,5,10,68000,3
+2025-02-24,Kano,Retail,Store,Printer P50,Electronics,150000,7,15,120000,5
+2025-03-03,Abuja,Corporate,Online,Printer P50,Electronics,150000,9,12,120000,4
+2025-04-23,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,7,10,68000,3
+2025-04-30,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,10,5,336000,4
+2025-01-29,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,7,12,144000,5
+2025-04-15,Abuja,Retail,Online,Blender B10,Home Appliances,30000,10,5,24000,6
+2025-04-26,Lagos,Retail,Store,Blender B10,Home Appliances,30000,2,12,24000,6
+2025-04-06,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,8,12,200000,6
+2025-03-04,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,4,12,144000,4
+2025-04-13,Abuja,Retail,Online,Laptop A13,Electronics,420000,8,10,336000,2
+2025-04-25,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,1,5,336000,2
+2025-03-11,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,7,10,68000,6
+2025-03-21,Kano,Corporate,Online,Laptop A13,Electronics,420000,6,5,336000,5
+2025-02-25,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,15,336000,2
+2025-01-26,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,1,15,48000,1
+2025-02-04,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,0,144000,6
+2025-02-06,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,9,0,256000,4
+2025-02-25,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,8,15,240000,1
+2025-03-25,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,9,10,144000,2
+2025-03-28,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,8,15,68000,2
+2025-02-22,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,2,0,48000,2
+2025-02-09,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,4,0,200000,3
+2025-02-21,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,5,0,200000,4
+2025-02-11,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,12,144000,3
+2025-03-17,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,7,0,48000,3
+2025-01-14,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,6,12,200000,3
+2025-03-29,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,3,15,200000,4
+2025-01-25,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,9,12,48000,2
+2025-02-01,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,9,12,200000,1
+2025-01-26,Kano,Retail,Store,Printer P50,Electronics,150000,3,15,120000,2
+2025-03-28,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,4,15,68000,1
+2025-03-23,Lagos,Corporate,Store,Printer P50,Electronics,150000,9,10,120000,4
+2025-01-08,Abuja,Corporate,Online,Printer P50,Electronics,150000,2,10,120000,3
+2025-01-14,Kano,Retail,Store,Desktop PC D21,Electronics,300000,3,5,240000,2
+2025-03-04,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,3,5,240000,4
+2025-03-31,Lagos,Retail,Online,Printer P50,Electronics,150000,1,0,120000,1
+2025-03-26,Kano,Retail,Online,Office Chair Pro,Furniture,85000,1,5,68000,4
+2025-01-31,Kano,Corporate,Online,Printer P50,Electronics,150000,5,0,120000,6
+2025-02-19,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,5,144000,4
+2025-01-16,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,10,10,68000,4
+2025-04-30,Lagos,Retail,Store,Blender B10,Home Appliances,30000,5,0,24000,6
+2025-01-09,Abuja,Retail,Online,Sofa Classic,Furniture,320000,3,15,256000,4
+2025-01-31,Lagos,Corporate,Store,Printer P50,Electronics,150000,2,15,120000,1
+2025-02-08,Kano,Retail,Online,Blender B10,Home Appliances,30000,6,15,24000,2
+2025-01-06,Kano,Corporate,Store,Blender B10,Home Appliances,30000,1,12,24000,5
+2025-01-22,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,10,10,68000,6
+2025-03-18,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,8,0,120000,5
+2025-02-23,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,0,336000,3
+2025-04-25,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,1,12,256000,5
+2025-01-18,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,10,15,68000,6
+2025-02-04,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,4,15,48000,2
+2025-01-16,Abuja,Retail,Online,Sofa Classic,Furniture,320000,5,0,256000,5
+2025-04-14,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,8,5,176000,2
+2025-03-17,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,8,15,48000,3
+2025-01-24,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,3,15,68000,1
+2025-02-24,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,4,10,240000,4
+2025-02-04,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,12,120000,1
+2025-02-04,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,2,15,336000,3
+2025-02-24,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,2,12,256000,2
+2025-01-16,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,10,144000,4
+2025-04-10,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,1,0,24000,1
+2025-03-24,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,4,10,256000,1
+2025-03-26,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,12,176000,5
+2025-03-24,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,10,144000,5
+2025-02-17,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,12,144000,2
+2025-01-17,Abuja,Retail,Store,Laptop A13,Electronics,420000,4,5,336000,2
+2025-01-03,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,7,5,176000,4
+2025-03-08,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,3,15,336000,3
+2025-04-22,Lagos,Corporate,Store,Laptop A13,Electronics,420000,10,15,336000,5
+2025-04-08,Kano,Retail,Store,Office Chair Pro,Furniture,85000,7,15,68000,4
+2025-02-03,Kano,Retail,Store,Desktop PC D21,Electronics,300000,7,5,240000,6
+2025-03-11,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,6,15,200000,2
+2025-03-02,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,2,12,336000,6
+2025-02-07,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,3,0,68000,5
+2025-03-20,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,1,0,176000,3
+2025-03-01,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,2,0,24000,3
+2025-04-14,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,5,5,120000,3
+2025-03-09,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,1,0,200000,6
+2025-02-24,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,2,12,68000,5
+2025-01-26,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,12,336000,3
+2025-02-16,Abuja,Retail,Store,Sofa Classic,Furniture,320000,5,10,256000,5
+2025-04-04,Abuja,Retail,Store,Sofa Classic,Furniture,320000,9,0,256000,1
+2025-04-28,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,2,0,48000,3
+2025-04-12,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,9,15,240000,1
+2025-01-13,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,10,0,336000,3
+2025-02-23,Kano,Retail,Online,Desktop PC D21,Electronics,300000,5,5,240000,2
+2025-01-12,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,4,15,200000,3
+2025-04-15,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,12,256000,2
+2025-02-05,Abuja,Retail,Online,Laptop A13,Electronics,420000,5,10,336000,4
+2025-01-27,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,1,12,176000,2
+2025-02-09,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,7,10,24000,6
+2025-02-24,Kano,Retail,Store,Desktop PC D21,Electronics,300000,5,12,240000,6
+2025-01-31,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,4,0,200000,1
+2025-04-25,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,5,144000,4
+2025-02-07,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,5,15,24000,2
+2025-04-18,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,1,5,256000,2
+2025-04-10,Lagos,Retail,Online,Printer P50,Electronics,150000,4,12,120000,3
+2025-01-17,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,6,15,240000,2
+2025-04-05,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,7,15,240000,1
+2025-01-14,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,12,176000,2
+2025-03-18,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,7,0,256000,1
+2025-01-24,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,9,5,120000,4
+2025-02-25,Abuja,Retail,Online,Blender B10,Home Appliances,30000,5,12,24000,5
+2025-01-25,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,2,12,68000,3
+2025-02-24,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,5,10,48000,3
+2025-03-04,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,0,176000,2
+2025-01-02,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,5,120000,5
+2025-03-08,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,5,336000,6
+2025-03-20,Kano,Retail,Online,Smartphone Z10,Electronics,250000,3,10,200000,2
+2025-02-10,Kano,Retail,Store,Desktop PC D21,Electronics,300000,6,15,240000,5
+2025-03-18,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,9,0,200000,1
+2025-05-01,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,9,5,240000,4
+2025-02-13,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,3,10,176000,3
+2025-04-25,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,5,10,68000,4
+2025-04-28,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,15,144000,1
+2025-02-23,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,3,5,48000,1
+2025-03-22,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,3,5,256000,6
+2025-01-13,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,9,5,24000,2
+2025-01-10,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,15,176000,5
+2025-02-26,Abuja,Retail,Online,Laptop A13,Electronics,420000,2,12,336000,5
+2025-02-21,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,5,10,24000,4
+2025-02-15,Lagos,Retail,Online,Sofa Classic,Furniture,320000,2,10,256000,5
+2025-04-16,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,10,15,176000,1
+2025-03-02,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,10,5,240000,1
+2025-04-02,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,6,0,256000,1
+2025-04-18,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,4,0,68000,3
+2025-03-16,Lagos,Retail,Store,Blender B10,Home Appliances,30000,10,10,24000,6
+2025-02-11,Kano,Retail,Online,Printer P50,Electronics,150000,9,12,120000,2
+2025-01-10,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,5,0,68000,5
+2025-02-22,Abuja,Retail,Online,Blender B10,Home Appliances,30000,8,10,24000,6
+2025-03-23,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,4,0,200000,2
+2025-04-11,Kano,Retail,Store,Laptop A13,Electronics,420000,4,0,336000,4
+2025-03-31,Kano,Retail,Store,Office Chair Pro,Furniture,85000,2,0,68000,3
+2025-02-06,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,9,12,24000,3
+2025-01-30,Abuja,Corporate,Online,Printer P50,Electronics,150000,7,10,120000,5
+2025-01-16,Kano,Retail,Online,Printer P50,Electronics,150000,7,10,120000,2
+2025-01-09,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,8,10,200000,2
+2025-03-26,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,6,5,240000,3
+2025-04-09,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,5,144000,2
+2025-01-17,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,5,176000,2
+2025-02-02,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,10,176000,4
+2025-03-08,Lagos,Retail,Store,Printer P50,Electronics,150000,8,10,120000,1
+2025-01-19,Kano,Retail,Online,Printer P50,Electronics,150000,2,0,120000,2
+2025-04-21,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,10,0,68000,4
+2025-02-06,Kano,Corporate,Online,Laptop A13,Electronics,420000,9,0,336000,6
+2025-01-07,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,6,0,176000,2
+2025-04-25,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,10,0,240000,6
+2025-05-01,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,3,12,24000,6
+2025-01-29,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,0,144000,5
+2025-01-25,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,10,10,240000,5
+2025-01-16,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,1,15,256000,3
+2025-03-28,Lagos,Retail,Store,Printer P50,Electronics,150000,6,0,120000,6
+2025-03-25,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,4,0,176000,6
+2025-01-26,Abuja,Corporate,Store,Printer P50,Electronics,150000,8,5,120000,6
+2025-01-25,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,2,12,336000,5
+2025-04-03,Kano,Retail,Store,Blender B10,Home Appliances,30000,1,5,24000,3
+2025-04-17,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,3,0,68000,1
+2025-02-20,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,10,0,48000,3
+2025-04-26,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,4,5,68000,3
+2025-02-15,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,5,144000,5
+2025-01-17,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,12,144000,4
+2025-02-19,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,10,176000,3
+2025-04-21,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,9,15,24000,3
+2025-01-05,Lagos,Retail,Online,Laptop A13,Electronics,420000,5,15,336000,2
+2025-03-06,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,8,15,68000,4
+2025-01-25,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,8,15,240000,6
+2025-03-29,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,6,5,68000,2
+2025-01-11,Kano,Retail,Store,Smartphone Z10,Electronics,250000,2,0,200000,2
+2025-03-02,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,6,10,24000,1
+2025-03-10,Kano,Retail,Store,Microwave M20,Home Appliances,60000,9,5,48000,4
+2025-03-02,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,9,12,68000,4
+2025-01-15,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,15,176000,2
+2025-02-17,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,4,0,24000,3
+2025-04-21,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,3,15,240000,5
+2025-04-27,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,1,0,68000,4
+2025-03-29,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,1,15,68000,3
+2025-01-20,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,7,12,48000,1
+2025-02-28,Kano,Retail,Store,Smartphone Z10,Electronics,250000,3,0,200000,2
+2025-04-18,Kano,Retail,Store,Office Chair Pro,Furniture,85000,6,5,68000,5
+2025-02-21,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,10,176000,5
+2025-03-17,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,0,176000,6
+2025-01-05,Abuja,Retail,Online,Laptop A13,Electronics,420000,1,5,336000,2
+2025-03-26,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,5,5,256000,1
+2025-02-22,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,5,12,336000,4
+2025-01-07,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,9,10,68000,1
+2025-03-03,Kano,Retail,Store,Blender B10,Home Appliances,30000,2,10,24000,1
+2025-04-06,Lagos,Retail,Online,Sofa Classic,Furniture,320000,6,5,256000,3
+2025-01-15,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,8,10,200000,2
+2025-04-08,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,15,176000,3
+2025-02-09,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,2,12,176000,2
+2025-03-24,Lagos,Retail,Store,Laptop A13,Electronics,420000,2,0,336000,2
+2025-03-13,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,15,144000,3
+2025-04-06,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,0,176000,6
+2025-02-07,Abuja,Retail,Online,Blender B10,Home Appliances,30000,6,5,24000,5
+2025-02-28,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,2,12,200000,3
+2025-01-21,Abuja,Corporate,Store,Printer P50,Electronics,150000,9,5,120000,1
+2025-04-22,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,15,144000,6
+2025-03-02,Kano,Retail,Store,Blender B10,Home Appliances,30000,7,12,24000,6
+2025-04-01,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,6,5,176000,4
+2025-01-03,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,6,10,176000,1
+2025-03-03,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,10,10,176000,4
+2025-01-09,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,9,15,68000,3
+2025-03-22,Lagos,Corporate,Store,Printer P50,Electronics,150000,6,15,120000,2
+2025-04-22,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,9,12,68000,4
+2025-03-30,Kano,Retail,Online,Microwave M20,Home Appliances,60000,1,12,48000,3
+2025-01-17,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,1,10,256000,4
+2025-04-01,Kano,Retail,Store,Printer P50,Electronics,150000,2,12,120000,6
+2025-04-03,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,8,10,144000,5
+2025-03-11,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,4,5,48000,1
+2025-04-15,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,4,15,68000,2
+2025-02-17,Abuja,Corporate,Store,Laptop A13,Electronics,420000,1,10,336000,3
+2025-02-17,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,5,240000,3
+2025-03-21,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,8,5,68000,4
+2025-04-08,Kano,Retail,Store,Desktop PC D21,Electronics,300000,5,15,240000,2
+2025-01-29,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,8,12,200000,2
+2025-02-26,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,1,10,256000,1
+2025-02-15,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,0,176000,2
+2025-02-06,Port Harcourt,Retail,Store,Air Conditioner X2,Home Appliances,180000,7,15,144000,1
+2025-04-25,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,3,0,200000,4
+2025-01-01,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,1,0,48000,5
+2025-03-07,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,12,144000,2
+2025-04-17,Kano,Retail,Online,Desktop PC D21,Electronics,300000,7,10,240000,3
+2025-02-17,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,1,12,24000,1
+2025-03-14,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,15,144000,3
+2025-03-17,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,9,10,176000,3
+2025-03-30,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,9,0,68000,1
+2025-04-29,Kano,Retail,Store,Laptop A13,Electronics,420000,7,5,336000,6
+2025-04-19,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,3,10,256000,1
+2025-04-18,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,15,176000,2
+2025-03-02,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,7,12,176000,5
+2025-02-14,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,8,5,48000,4
+2025-04-27,Kano,Retail,Online,Microwave M20,Home Appliances,60000,4,10,48000,6
+2025-03-03,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,5,5,200000,6
+2025-04-16,Kano,Corporate,Store,Blender B10,Home Appliances,30000,4,10,24000,3
+2025-03-28,Kano,Corporate,Online,Printer P50,Electronics,150000,3,12,120000,5
+2025-01-27,Abuja,Retail,Store,Printer P50,Electronics,150000,9,0,120000,6
+2025-03-07,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,3,12,48000,1
+2025-02-25,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,3,12,24000,4
+2025-04-02,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,10,5,24000,3
+2025-04-20,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,5,10,240000,1
+2025-02-03,Lagos,Corporate,Store,Printer P50,Electronics,150000,10,15,120000,5
+2025-03-25,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,2,0,68000,1
+2025-04-26,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,15,176000,5
+2025-01-30,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,6,15,176000,4
+2025-04-29,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,9,10,200000,1
+2025-04-14,Abuja,Retail,Online,Printer P50,Electronics,150000,4,12,120000,3
+2025-04-11,Kano,Corporate,Online,Printer P50,Electronics,150000,10,10,120000,2
+2025-03-28,Kano,Retail,Online,Office Chair Pro,Furniture,85000,5,10,68000,5
+2025-04-21,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,2,0,68000,3
+2025-02-24,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,15,176000,6
+2025-03-03,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,10,15,240000,2
+2025-03-12,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,2,5,68000,4
+2025-04-21,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,1,5,240000,5
+2025-02-12,Kano,Retail,Store,Printer P50,Electronics,150000,5,5,120000,6
+2025-04-06,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,5,12,200000,5
+2025-01-05,Lagos,Retail,Store,Laptop A13,Electronics,420000,8,10,336000,3
+2025-01-21,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,3,0,336000,6
+2025-02-23,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,8,0,256000,6
+2025-02-09,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,6,5,48000,2
+2025-04-02,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,9,12,176000,5
+2025-01-27,Kano,Retail,Store,Smartphone Z10,Electronics,250000,2,12,200000,2
+2025-04-18,Lagos,Corporate,Online,Printer P50,Electronics,150000,5,15,120000,2
+2025-04-23,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,9,12,24000,6
+2025-02-11,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,15,144000,3
+2025-02-26,Abuja,Corporate,Store,Laptop A13,Electronics,420000,8,15,336000,5
+2025-02-08,Kano,Corporate,Online,Laptop A13,Electronics,420000,1,12,336000,1
+2025-04-03,Lagos,Retail,Store,Sofa Classic,Furniture,320000,10,10,256000,4
+2025-04-08,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,12,144000,6
+2025-04-29,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,2,12,240000,4
+2025-04-11,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,9,10,68000,2
+2025-03-29,Lagos,Corporate,Store,Laptop A13,Electronics,420000,9,5,336000,4
+2025-05-01,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,10,12,240000,6
+2025-03-13,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,3,0,48000,2
+2025-03-01,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,10,336000,4
+2025-01-08,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,10,144000,2
+2025-01-17,Abuja,Retail,Online,Laptop A13,Electronics,420000,5,10,336000,5
+2025-03-05,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,10,10,336000,1
+2025-01-20,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,12,240000,6
+2025-04-29,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,2,10,240000,1
+2025-03-02,Abuja,Retail,Online,Laptop A13,Electronics,420000,7,10,336000,2
+2025-02-27,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,4,5,68000,4
+2025-01-07,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,2,15,200000,6
+2025-04-11,Abuja,Retail,Online,Blender B10,Home Appliances,30000,7,15,24000,3
+2025-03-07,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,3,5,24000,6
+2025-01-21,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,6,10,176000,2
+2025-03-08,Abuja,Corporate,Store,Printer P50,Electronics,150000,3,0,120000,6
+2025-01-16,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,12,176000,1
+2025-02-06,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,7,5,68000,3
+2025-01-11,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,3,12,176000,4
+2025-01-09,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,15,176000,3
+2025-01-07,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,4,0,256000,2
+2025-02-27,Kano,Corporate,Store,Blender B10,Home Appliances,30000,4,12,24000,3
+2025-01-25,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,5,15,176000,1
+2025-04-05,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,12,176000,2
+2025-03-30,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,0,176000,3
+2025-02-02,Lagos,Retail,Store,Blender B10,Home Appliances,30000,3,10,24000,1
+2025-01-24,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,7,5,48000,3
+2025-05-01,Kano,Retail,Store,Desktop PC D21,Electronics,300000,3,0,240000,3
+2025-02-11,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,3,12,24000,4
+2025-03-24,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,4,15,240000,6
+2025-02-26,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,10,144000,3
+2025-02-07,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,7,10,144000,3
+2025-02-26,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,6,5,240000,3
+2025-03-07,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,12,144000,5
+2025-04-14,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,5,5,48000,5
+2025-04-01,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,10,15,24000,1
+2025-01-04,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,10,12,24000,5
+2025-04-06,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,8,0,176000,5
+2025-02-14,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,10,5,120000,4
+2025-04-07,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,10,5,256000,3
+2025-04-14,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,3,5,24000,5
+2025-01-18,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,5,0,336000,6
+2025-04-01,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,8,10,200000,2
+2025-03-17,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,9,15,240000,4
+2025-04-01,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,8,15,176000,4
+2025-03-17,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,4,5,48000,3
+2025-03-05,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,3,5,176000,6
+2025-03-15,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,7,15,200000,3
+2025-04-28,Kano,Retail,Store,Smartphone Z10,Electronics,250000,1,10,200000,4
+2025-04-27,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,5,5,176000,1
+2025-01-24,Lagos,Retail,Store,Printer P50,Electronics,150000,3,15,120000,5
+2025-01-08,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,10,144000,3
+2025-02-05,Abuja,Corporate,Store,Laptop A13,Electronics,420000,6,0,336000,2
+2025-03-18,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,9,15,120000,6
+2025-02-15,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,1,5,200000,4
+2025-04-14,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,5,12,68000,1
+2025-02-01,Kano,Corporate,Online,Sofa Classic,Furniture,320000,4,0,256000,3
+2025-01-27,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,10,144000,3
+2025-04-27,Abuja,Corporate,Store,Printer P50,Electronics,150000,5,0,120000,2
+2025-03-14,Kano,Retail,Online,Blender B10,Home Appliances,30000,10,10,24000,3
+2025-02-25,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,5,144000,4
+2025-03-24,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,3,15,68000,2
+2025-02-22,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,3,15,24000,6
+2025-01-19,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,7,12,120000,1
+2025-01-27,Lagos,Corporate,Online,Printer P50,Electronics,150000,3,5,120000,2
+2025-04-06,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,3,5,200000,6
+2025-03-01,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,7,15,24000,1
+2025-03-04,Abuja,Retail,Online,Printer P50,Electronics,150000,6,12,120000,1
+2025-02-24,Kano,Retail,Store,Microwave M20,Home Appliances,60000,8,10,48000,5
+2025-03-27,Abuja,Retail,Online,Printer P50,Electronics,150000,5,10,120000,6
+2025-03-03,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,3,12,48000,4
+2025-04-18,Kano,Retail,Online,Desktop PC D21,Electronics,300000,3,5,240000,4
+2025-04-08,Kano,Retail,Online,Office Chair Pro,Furniture,85000,5,12,68000,1
+2025-04-16,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,8,12,24000,5
+2025-04-06,Kano,Retail,Store,Desktop PC D21,Electronics,300000,9,15,240000,2
+2025-02-28,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,3,0,68000,6
+2025-04-07,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,1,12,24000,5
+2025-04-29,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,12,240000,4
+2025-02-15,Kano,Retail,Store,Blender B10,Home Appliances,30000,4,5,24000,1
+2025-01-10,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,0,144000,2
+2025-02-21,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,4,15,48000,2
+2025-03-08,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,1,5,48000,6
+2025-04-19,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,8,5,200000,2
+2025-01-17,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,5,5,68000,5
+2025-03-06,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,9,5,176000,3
+2025-03-10,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,5,12,240000,1
+2025-01-14,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,8,5,200000,1
+2025-03-05,Kano,Retail,Store,Desktop PC D21,Electronics,300000,4,10,240000,5
+2025-04-08,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,4,15,240000,6
+2025-04-09,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,9,0,200000,4
+2025-02-10,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,0,144000,3
+2025-01-31,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,8,12,200000,3
+2025-02-08,Abuja,Retail,Store,Blender B10,Home Appliances,30000,9,12,24000,3
+2025-01-15,Abuja,Retail,Online,Printer P50,Electronics,150000,7,0,120000,4
+2025-04-02,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,8,15,48000,6
+2025-01-19,Lagos,Retail,Online,Sofa Classic,Furniture,320000,1,5,256000,6
+2025-02-25,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,2,15,120000,1
+2025-02-21,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,3,12,240000,2
+2025-04-22,Abuja,Corporate,Store,Printer P50,Electronics,150000,4,15,120000,5
+2025-03-24,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,3,0,68000,2
+2025-02-22,Abuja,Retail,Store,Laptop A13,Electronics,420000,2,0,336000,3
+2025-04-02,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,9,12,200000,3
+2025-02-11,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,10,0,200000,2
+2025-02-26,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,2,5,144000,6
+2025-03-04,Kano,Retail,Online,Sofa Classic,Furniture,320000,2,0,256000,5
+2025-04-30,Kano,Retail,Store,Blender B10,Home Appliances,30000,3,5,24000,6
+2025-04-08,Abuja,Retail,Online,Laptop A13,Electronics,420000,3,10,336000,3
+2025-04-27,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,12,176000,3
+2025-01-07,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,4,12,240000,6
+2025-04-11,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,10,10,200000,1
+2025-02-02,Lagos,Corporate,Store,Laptop A13,Electronics,420000,5,15,336000,2
+2025-02-01,Kano,Retail,Store,Microwave M20,Home Appliances,60000,1,5,48000,1
+2025-02-28,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,0,176000,3
+2025-02-25,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,3,0,68000,2
+2025-04-08,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,7,5,256000,4
+2025-04-19,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,4,0,200000,5
+2025-04-17,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,2,12,200000,6
+2025-01-08,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,5,176000,2
+2025-03-02,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,5,144000,1
+2025-01-02,Lagos,Retail,Online,Blender B10,Home Appliances,30000,8,5,24000,1
+2025-04-20,Lagos,Retail,Store,Printer P50,Electronics,150000,10,15,120000,2
+2025-02-21,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,5,0,48000,2
+2025-04-19,Kano,Corporate,Store,Laptop A13,Electronics,420000,7,12,336000,2
+2025-02-05,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,1,0,256000,6
+2025-02-24,Lagos,Retail,Store,Blender B10,Home Appliances,30000,4,10,24000,2
+2025-03-05,Kano,Corporate,Online,Printer P50,Electronics,150000,3,15,120000,1
+2025-02-04,Kano,Retail,Online,Blender B10,Home Appliances,30000,9,5,24000,5
+2025-02-19,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,8,0,120000,5
+2025-02-21,Lagos,Retail,Store,Blender B10,Home Appliances,30000,5,0,24000,3
+2025-01-30,Kano,Corporate,Online,Blender B10,Home Appliances,30000,1,15,24000,1
+2025-03-24,Kano,Retail,Store,Desktop PC D21,Electronics,300000,6,15,240000,4
+2025-02-11,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,2,12,48000,4
+2025-01-30,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,5,0,200000,2
+2025-01-26,Kano,Corporate,Store,Blender B10,Home Appliances,30000,9,10,24000,1
+2025-02-26,Abuja,Retail,Online,Laptop A13,Electronics,420000,6,12,336000,2
+2025-02-02,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,6,12,256000,5
+2025-02-12,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,4,0,240000,6
+2025-03-14,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,4,0,176000,4
+2025-03-11,Kano,Retail,Store,Microwave M20,Home Appliances,60000,8,10,48000,1
+2025-01-09,Abuja,Retail,Online,Printer P50,Electronics,150000,7,5,120000,4
+2025-04-22,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,0,24000,6
+2025-04-28,Lagos,Retail,Store,Laptop A13,Electronics,420000,8,12,336000,3
+2025-04-08,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,2,5,68000,5
+2025-01-07,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,9,15,240000,5
+2025-01-28,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,2,0,176000,3
+2025-01-27,Kano,Retail,Store,Microwave M20,Home Appliances,60000,7,15,48000,2
+2025-02-11,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,8,10,240000,4
+2025-03-05,Abuja,Corporate,Store,Printer P50,Electronics,150000,1,5,120000,3
+2025-01-08,Kano,Retail,Store,Smartphone Z10,Electronics,250000,3,5,200000,2
+2025-01-19,Abuja,Retail,Online,Printer P50,Electronics,150000,1,10,120000,4
+2025-03-31,Kano,Retail,Store,Blender B10,Home Appliances,30000,8,15,24000,1
+2025-02-16,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,7,10,24000,6
+2025-04-05,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,7,12,200000,2
+2025-03-04,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,15,144000,4
+2025-03-21,Lagos,Retail,Store,Laptop A13,Electronics,420000,7,0,336000,3
+2025-02-06,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,4,10,256000,4
+2025-03-19,Lagos,Retail,Online,Printer P50,Electronics,150000,3,5,120000,1
+2025-03-19,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,0,144000,6
+2025-03-08,Kano,Retail,Store,Office Chair Pro,Furniture,85000,9,10,68000,6
+2025-03-02,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,9,5,200000,5
+2025-01-31,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,5,0,48000,2
+2025-04-11,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,7,5,240000,3
+2025-02-07,Kano,Corporate,Store,Laptop A13,Electronics,420000,10,12,336000,5
+2025-04-07,Lagos,Retail,Store,Printer P50,Electronics,150000,8,15,120000,5
+2025-03-06,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,4,5,176000,4
+2025-04-29,Lagos,Retail,Store,Laptop A13,Electronics,420000,2,5,336000,2
+2025-03-03,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,9,12,176000,3
+2025-01-24,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,6,12,48000,2
+2025-04-12,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,2,12,48000,5
+2025-04-12,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,6,10,240000,5
+2025-01-07,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,10,176000,1
+2025-03-25,Lagos,Corporate,Store,Printer P50,Electronics,150000,4,15,120000,6
+2025-01-16,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,1,5,24000,1
+2025-01-14,Kano,Corporate,Store,Sofa Classic,Furniture,320000,6,5,256000,5
+2025-02-10,Kano,Retail,Store,Blender B10,Home Appliances,30000,9,15,24000,5
+2025-02-12,Lagos,Retail,Store,Printer P50,Electronics,150000,1,10,120000,2
+2025-03-29,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,2,12,176000,5
+2025-04-09,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,9,15,240000,2
+2025-03-10,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,10,144000,1
+2025-02-28,Kano,Retail,Online,Microwave M20,Home Appliances,60000,1,5,48000,6
+2025-03-03,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,8,5,48000,3
+2025-01-31,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,1,0,120000,5
+2025-01-07,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,4,10,176000,2
+2025-04-11,Kano,Retail,Online,Blender B10,Home Appliances,30000,1,0,24000,1
+2025-04-25,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,8,15,48000,4
+2025-01-17,Kano,Retail,Store,Smartphone Z10,Electronics,250000,4,12,200000,4
+2025-03-31,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,15,144000,4
+2025-01-12,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,10,15,68000,5
+2025-02-06,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,3,5,176000,2
+2025-02-19,Kano,Retail,Store,Sofa Classic,Furniture,320000,5,0,256000,3
+2025-01-23,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,7,12,200000,5
+2025-03-30,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,1,5,176000,4
+2025-02-25,Lagos,Corporate,Online,Laptop A13,Electronics,420000,9,12,336000,2
+2025-03-08,Lagos,Corporate,Online,Laptop A13,Electronics,420000,4,15,336000,1
+2025-02-21,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,4,10,144000,5
+2025-04-06,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,0,336000,6
+2025-01-30,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,10,10,24000,4
+2025-03-13,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,8,5,48000,6
+2025-02-08,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,0,144000,1
+2025-04-11,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,6,5,240000,4
+2025-03-10,Abuja,Retail,Store,Sofa Classic,Furniture,320000,8,5,256000,4
+2025-04-29,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,7,10,68000,2
+2025-03-09,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,9,15,68000,6
+2025-01-15,Kano,Retail,Store,Laptop A13,Electronics,420000,1,5,336000,1
+2025-03-22,Abuja,Corporate,Store,Laptop A13,Electronics,420000,8,15,336000,5
+2025-04-04,Lagos,Retail,Online,Printer P50,Electronics,150000,7,0,120000,4
+2025-03-27,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,9,0,68000,4
+2025-03-20,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,3,10,200000,1
+2025-04-06,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,4,0,240000,6
+2025-02-06,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,5,15,240000,4
+2025-01-11,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,6,15,48000,4
+2025-04-08,Abuja,Corporate,Store,Laptop A13,Electronics,420000,6,12,336000,1
+2025-04-09,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,12,176000,4
+2025-03-16,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,10,12,176000,6
+2025-02-12,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,8,5,256000,6
+2025-03-27,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,8,10,68000,6
+2025-01-03,Kano,Retail,Store,Printer P50,Electronics,150000,2,12,120000,4
+2025-03-17,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,10,144000,2
+2025-03-26,Kano,Retail,Store,Laptop A13,Electronics,420000,1,5,336000,5
+2025-02-09,Kano,Retail,Online,Printer P50,Electronics,150000,3,10,120000,5
+2025-02-25,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,3,15,24000,3
+2025-03-20,Kano,Retail,Store,Laptop A13,Electronics,420000,1,0,336000,2
+2025-01-11,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,7,12,48000,5
+2025-01-31,Kano,Retail,Store,Sofa Classic,Furniture,320000,7,15,256000,3
+2025-02-15,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,2,15,256000,2
+2025-03-24,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,3,12,200000,3
+2025-01-27,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,10,144000,5
+2025-02-02,Lagos,Corporate,Online,Laptop A13,Electronics,420000,1,10,336000,5
+2025-01-14,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,6,12,144000,4
+2025-02-04,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,6,15,240000,2
+2025-03-01,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,10,15,336000,4
+2025-03-03,Kano,Retail,Store,Printer P50,Electronics,150000,3,5,120000,5
+2025-01-11,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,5,10,68000,5
+2025-03-19,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,2,15,48000,3
+2025-04-04,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,5,5,200000,4
+2025-03-22,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,10,5,68000,6
+2025-02-06,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,2,12,336000,6
+2025-02-23,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,8,10,176000,2
+2025-04-02,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,12,176000,1
+2025-02-21,Kano,Corporate,Store,Blender B10,Home Appliances,30000,6,10,24000,6
+2025-01-27,Kano,Retail,Online,Desktop PC D21,Electronics,300000,7,5,240000,6
+2025-01-20,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,5,144000,1
+2025-01-20,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,2,10,200000,2
+2025-03-21,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,3,15,24000,4
+2025-02-26,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,3,10,48000,3
+2025-04-28,Kano,Retail,Store,Office Chair Pro,Furniture,85000,2,15,68000,2
+2025-04-14,Abuja,Retail,Online,Printer P50,Electronics,150000,5,0,120000,6
+2025-04-03,Kano,Retail,Store,Microwave M20,Home Appliances,60000,5,5,48000,5
+2025-04-05,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,6,0,68000,1
+2025-04-18,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,10,144000,1
+2025-01-16,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,5,15,200000,1
+2025-04-25,Kano,Retail,Online,Microwave M20,Home Appliances,60000,2,0,48000,3
+2025-01-12,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,7,5,240000,1
+2025-04-01,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,5,5,120000,3
+2025-02-11,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,4,10,48000,2
+2025-04-25,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,5,176000,3
+2025-04-08,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,5,0,24000,5
+2025-02-03,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,12,144000,6
+2025-04-13,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,5,336000,4
+2025-01-20,Abuja,Retail,Store,Blender B10,Home Appliances,30000,5,15,24000,5
+2025-04-09,Kano,Corporate,Online,Printer P50,Electronics,150000,2,0,120000,6
+2025-04-13,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,1,12,256000,4
+2025-05-01,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,10,0,176000,3
+2025-04-13,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,15,144000,5
+2025-03-20,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,8,15,24000,4
+2025-03-30,Kano,Retail,Store,Microwave M20,Home Appliances,60000,9,10,48000,3
+2025-03-10,Lagos,Corporate,Online,Printer P50,Electronics,150000,9,12,120000,3
+2025-01-05,Lagos,Corporate,Store,Laptop A13,Electronics,420000,5,5,336000,4
+2025-02-26,Kano,Retail,Online,Laptop A13,Electronics,420000,7,10,336000,1
+2025-02-11,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,10,176000,1
+2025-04-02,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,5,0,68000,1
+2025-04-15,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,6,5,48000,1
+2025-03-04,Kano,Retail,Online,Smartphone Z10,Electronics,250000,10,10,200000,6
+2025-03-11,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,3,5,256000,5
+2025-02-24,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,6,15,200000,4
+2025-04-08,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,3,0,48000,6
+2025-02-14,Lagos,Corporate,Online,Printer P50,Electronics,150000,6,15,120000,1
+2025-02-28,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,10,0,200000,6
+2025-01-08,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,7,5,336000,4
+2025-01-12,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,7,5,68000,4
+2025-02-23,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,3,15,240000,5
+2025-01-18,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,2,15,240000,1
+2025-04-07,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,5,15,176000,3
+2025-04-26,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,2,0,176000,3
+2025-01-30,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,0,144000,3
+2025-04-22,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,8,12,68000,4
+2025-01-03,Kano,Corporate,Store,Laptop A13,Electronics,420000,2,15,336000,3
+2025-02-13,Lagos,Corporate,Online,Printer P50,Electronics,150000,4,15,120000,6
+2025-01-08,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,1,5,48000,5
+2025-04-17,Kano,Retail,Store,Sofa Classic,Furniture,320000,9,5,256000,1
+2025-03-02,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,3,10,200000,5
+2025-01-21,Abuja,Retail,Store,Blender B10,Home Appliances,30000,6,0,24000,6
+2025-03-08,Abuja,Retail,Store,Laptop A13,Electronics,420000,10,10,336000,3
+2025-03-11,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,3,5,256000,1
+2025-01-08,Lagos,Retail,Online,Sofa Classic,Furniture,320000,5,10,256000,6
+2025-03-17,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,3,15,256000,2
+2025-04-01,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,7,0,120000,4
+2025-02-02,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,7,5,200000,1
+2025-04-13,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,5,176000,1
+2025-03-24,Kano,Corporate,Store,Laptop A13,Electronics,420000,7,12,336000,6
+2025-01-10,Kano,Corporate,Store,Blender B10,Home Appliances,30000,7,10,24000,1
+2025-04-09,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,8,0,68000,1
+2025-03-20,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,5,15,144000,1
+2025-03-16,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,10,0,256000,2
+2025-03-24,Kano,Retail,Store,Blender B10,Home Appliances,30000,1,5,24000,2
+2025-04-19,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,3,0,240000,6
+2025-02-01,Lagos,Corporate,Online,Printer P50,Electronics,150000,2,5,120000,4
+2025-02-10,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,9,0,200000,2
+2025-02-10,Kano,Retail,Store,Microwave M20,Home Appliances,60000,7,12,48000,4
+2025-04-15,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,7,5,200000,2
+2025-03-11,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,2,5,200000,1
+2025-01-12,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,1,15,24000,1
+2025-04-14,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,6,5,68000,1
+2025-01-18,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,2,10,24000,1
+2025-02-12,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,5,144000,6
+2025-02-08,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,10,0,24000,3
+2025-04-17,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,4,0,176000,5
+2025-04-19,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,2,5,240000,5
+2025-04-12,Kano,Retail,Store,Laptop A13,Electronics,420000,7,5,336000,3
+2025-03-06,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,5,144000,2
+2025-03-26,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,2,0,240000,5
+2025-01-02,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,3,15,120000,1
+2025-04-05,Lagos,Retail,Online,Printer P50,Electronics,150000,5,12,120000,1
+2025-02-04,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,9,5,48000,5
+2025-03-19,Lagos,Retail,Online,Laptop A13,Electronics,420000,6,10,336000,6
+2025-04-28,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,6,15,48000,2
+2025-02-13,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,10,5,24000,5
+2025-03-04,Kano,Retail,Online,Smartphone Z10,Electronics,250000,9,12,200000,4
+2025-04-15,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,3,5,176000,4
+2025-04-09,Kano,Retail,Online,Printer P50,Electronics,150000,10,0,120000,6
+2025-01-29,Abuja,Retail,Store,Blender B10,Home Appliances,30000,5,15,24000,1
+2025-01-20,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,5,15,256000,5
+2025-05-01,Kano,Corporate,Online,Laptop A13,Electronics,420000,3,0,336000,4
+2025-03-01,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,4,0,256000,3
+2025-01-19,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,6,15,240000,1
+2025-03-23,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,4,12,240000,3
+2025-04-10,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,2,5,336000,3
+2025-04-08,Abuja,Retail,Store,Printer P50,Electronics,150000,3,5,120000,2
+2025-03-25,Kano,Corporate,Store,Printer P50,Electronics,150000,2,12,120000,3
+2025-01-31,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,1,5,48000,4
+2025-01-25,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,4,15,24000,6
+2025-02-16,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,10,10,176000,2
+2025-02-27,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,5,144000,6
+2025-04-29,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,2,5,336000,3
+2025-01-22,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,6,15,48000,4
+2025-02-02,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,5,12,24000,1
+2025-02-05,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,10,0,336000,5
+2025-03-28,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,8,10,68000,4
+2025-01-10,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,10,0,120000,4
+2025-03-06,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,5,144000,3
+2025-04-10,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,10,15,256000,6
+2025-03-07,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,5,144000,3
+2025-04-20,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,6,10,176000,5
+2025-04-18,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,4,5,200000,4
+2025-03-11,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,8,10,68000,5
+2025-02-20,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,1,10,176000,5
+2025-03-12,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,1,5,68000,2
+2025-03-30,Lagos,Retail,Online,Laptop A13,Electronics,420000,10,10,336000,2
+2025-01-10,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,4,12,240000,5
+2025-01-25,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,10,15,68000,4
+2025-03-02,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,10,144000,4
+2025-02-07,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,1,10,240000,1
+2025-04-19,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,3,0,48000,2
+2025-03-07,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,10,12,200000,1
+2025-03-30,Lagos,Retail,Online,Blender B10,Home Appliances,30000,4,15,24000,6
+2025-04-12,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,6,5,336000,4
+2025-03-13,Abuja,Retail,Store,Printer P50,Electronics,150000,9,12,120000,1
+2025-01-30,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,15,144000,6
+2025-03-29,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,8,10,68000,1
+2025-03-08,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,1,0,48000,3
+2025-03-05,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,2,0,240000,1
+2025-01-29,Kano,Retail,Online,Smartphone Z10,Electronics,250000,9,5,200000,6
+2025-03-28,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,5,5,48000,3
+2025-02-02,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,8,10,200000,5
+2025-04-27,Kano,Corporate,Online,Laptop A13,Electronics,420000,3,15,336000,5
+2025-03-10,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,4,15,176000,2
+2025-02-26,Lagos,Retail,Store,Printer P50,Electronics,150000,9,12,120000,6
+2025-04-18,Kano,Retail,Store,Blender B10,Home Appliances,30000,2,10,24000,2
+2025-01-11,Abuja,Corporate,Store,Laptop A13,Electronics,420000,3,15,336000,1
+2025-04-21,Kano,Corporate,Store,Blender B10,Home Appliances,30000,9,12,24000,4
+2025-01-07,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,7,5,200000,5
+2025-03-17,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,2,10,48000,5
+2025-01-02,Kano,Corporate,Store,Sofa Classic,Furniture,320000,4,12,256000,6
+2025-04-01,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,10,15,24000,2
+2025-04-06,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,3,12,240000,6
+2025-02-24,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,10,144000,4
+2025-02-02,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,5,0,48000,1
+2025-03-17,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,5,0,48000,2
+2025-04-22,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,10,10,200000,1
+2025-04-07,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,1,0,200000,3
+2025-02-06,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,10,5,176000,1
+2025-02-10,Kano,Retail,Store,Blender B10,Home Appliances,30000,3,12,24000,5
+2025-03-17,Kano,Retail,Online,Desktop PC D21,Electronics,300000,3,10,240000,2
+2025-02-11,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,2,10,336000,1
+2025-02-04,Lagos,Retail,Online,Sofa Classic,Furniture,320000,8,5,256000,5
+2025-03-22,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,8,15,68000,5
+2025-01-31,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,7,15,240000,5
+2025-04-20,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,4,0,200000,3
+2025-03-21,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,8,12,68000,4
+2025-03-25,Kano,Retail,Online,Microwave M20,Home Appliances,60000,4,0,48000,2
+2025-01-09,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,1,0,336000,4
+2025-01-03,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,9,5,256000,1
+2025-01-27,Kano,Retail,Store,Desktop PC D21,Electronics,300000,2,12,240000,6
+2025-02-03,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,4,15,68000,4
+2025-01-16,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,6,0,24000,3
+2025-02-22,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,6,5,256000,2
+2025-03-01,Lagos,Corporate,Store,Sofa Classic,Furniture,320000,4,15,256000,1
+2025-03-16,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,10,5,68000,5
+2025-01-13,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,6,12,48000,1
+2025-01-01,Lagos,Retail,Online,Blender B10,Home Appliances,30000,10,0,24000,2
+2025-02-13,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,1,0,176000,3
+2025-04-14,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,4,5,256000,2
+2025-01-17,Kano,Retail,Store,Laptop A13,Electronics,420000,5,10,336000,6
+2025-02-28,Abuja,Retail,Store,Laptop A13,Electronics,420000,5,5,336000,5
+2025-02-24,Lagos,Retail,Store,Sofa Classic,Furniture,320000,9,15,256000,4
+2025-03-07,Abuja,Retail,Store,Blender B10,Home Appliances,30000,5,0,24000,3
+2025-02-14,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,6,12,200000,2
+2025-02-15,Lagos,Retail,Store,Blender B10,Home Appliances,30000,10,15,24000,3
+2025-03-31,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,12,144000,3
+2025-02-10,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,4,0,48000,4
+2025-04-03,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,10,15,176000,4
+2025-03-27,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,4,12,24000,6
+2025-03-23,Kano,Retail,Online,Sofa Classic,Furniture,320000,1,5,256000,6
+2025-01-19,Abuja,Retail,Store,Blender B10,Home Appliances,30000,7,0,24000,5
+2025-01-02,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,10,15,48000,2
+2025-02-08,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,7,5,24000,3
+2025-04-07,Kano,Retail,Store,Microwave M20,Home Appliances,60000,7,0,48000,2
+2025-01-17,Lagos,Retail,Online,Printer P50,Electronics,150000,3,5,120000,5
+2025-02-24,Lagos,Corporate,Online,Blender B10,Home Appliances,30000,7,0,24000,5
+2025-02-12,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,8,0,240000,5
+2025-02-25,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,15,176000,6
+2025-03-30,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,5,10,200000,5
+2025-03-03,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,6,0,336000,5
+2025-02-17,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,1,0,68000,5
+2025-02-12,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,15,176000,1
+2025-01-31,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,12,176000,4
+2025-01-17,Abuja,Corporate,Online,Laptop A13,Electronics,420000,10,10,336000,5
+2025-02-16,Kano,Corporate,Store,Blender B10,Home Appliances,30000,9,5,24000,5
+2025-01-12,Kano,Retail,Online,Desktop PC D21,Electronics,300000,4,12,240000,5
+2025-03-08,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,9,0,68000,2
+2025-03-25,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,3,10,68000,5
+2025-05-01,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,10,176000,6
+2025-01-28,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,10,12,176000,1
+2025-02-25,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,5,0,144000,1
+2025-04-20,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,2,0,68000,1
+2025-01-28,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,0,176000,1
+2025-04-14,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,6,10,240000,3
+2025-02-25,Kano,Corporate,Online,Sofa Classic,Furniture,320000,1,15,256000,4
+2025-04-30,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,5,5,144000,1
+2025-02-20,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,6,5,176000,2
+2025-04-18,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,2,0,48000,1
+2025-04-18,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,3,15,48000,5
+2025-02-19,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,6,15,48000,4
+2025-01-22,Kano,Retail,Online,Laptop A13,Electronics,420000,1,5,336000,2
+2025-01-18,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,1,12,48000,1
+2025-04-11,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,10,0,176000,3
+2025-01-23,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,7,0,256000,3
+2025-02-11,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,10,144000,2
+2025-01-05,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,7,10,240000,1
+2025-02-08,Port Harcourt,Corporate,Store,Desktop PC D21,Electronics,300000,8,12,240000,2
+2025-01-20,Port Harcourt,Retail,Online,Laptop A13,Electronics,420000,6,12,336000,1
+2025-03-25,Kano,Retail,Store,Laptop A13,Electronics,420000,9,12,336000,3
+2025-02-14,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,5,10,68000,4
+2025-02-06,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,1,5,68000,2
+2025-03-23,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,8,10,68000,3
+2025-01-27,Kano,Retail,Online,Blender B10,Home Appliances,30000,6,5,24000,4
+2025-03-02,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,9,0,68000,3
+2025-01-30,Kano,Retail,Store,Blender B10,Home Appliances,30000,9,12,24000,4
+2025-05-01,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,4,15,176000,6
+2025-01-15,Abuja,Retail,Online,Printer P50,Electronics,150000,6,15,120000,1
+2025-04-27,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,0,336000,3
+2025-03-01,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,1,5,200000,3
+2025-03-03,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,5,144000,2
+2025-03-25,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,15,24000,3
+2025-01-18,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,1,10,240000,3
+2025-03-04,Lagos,Corporate,Online,Printer P50,Electronics,150000,4,0,120000,4
+2025-03-20,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,10,5,176000,3
+2025-03-26,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,1,0,240000,5
+2025-04-06,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,1,10,200000,1
+2025-01-30,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,2,12,68000,1
+2025-04-19,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,6,12,24000,3
+2025-02-14,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,12,144000,5
+2025-02-06,Abuja,Corporate,Store,Laptop A13,Electronics,420000,6,5,336000,1
+2025-04-13,Abuja,Retail,Online,Sofa Classic,Furniture,320000,1,5,256000,4
+2025-02-03,Port Harcourt,Corporate,Online,Blender B10,Home Appliances,30000,9,12,24000,1
+2025-02-01,Kano,Corporate,Online,Printer P50,Electronics,150000,3,15,120000,5
+2025-01-04,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,12,144000,3
+2025-01-30,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,8,12,24000,6
+2025-04-09,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,2,12,68000,1
+2025-03-12,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,15,144000,1
+2025-03-09,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,3,5,48000,2
+2025-02-03,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,6,15,256000,3
+2025-02-20,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,7,10,144000,2
+2025-03-25,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,4,10,48000,5
+2025-02-27,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,4,15,48000,5
+2025-01-19,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,9,10,48000,5
+2025-04-11,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,3,10,200000,4
+2025-01-11,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,10,0,176000,2
+2025-01-03,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,8,0,120000,1
+2025-04-19,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,10,0,200000,5
+2025-01-08,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,6,5,240000,5
+2025-04-04,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,5,12,176000,1
+2025-01-28,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,1,0,24000,4
+2025-02-19,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,5,176000,2
+2025-02-06,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,8,15,200000,2
+2025-03-31,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,9,5,256000,3
+2025-03-29,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,0,144000,2
+2025-04-09,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,5,5,24000,3
+2025-04-14,Lagos,Retail,Online,Sofa Classic,Furniture,320000,3,5,256000,2
+2025-03-07,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,6,12,48000,2
+2025-02-04,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,6,15,256000,6
+2025-04-14,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,2,15,68000,4
+2025-04-03,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,10,68000,6
+2025-02-18,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,10,15,68000,4
+2025-04-03,Kano,Retail,Store,Laptop A13,Electronics,420000,8,5,336000,6
+2025-01-29,Kano,Retail,Store,Printer P50,Electronics,150000,4,0,120000,1
+2025-02-20,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,7,0,256000,5
+2025-02-17,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,10,15,200000,4
+2025-02-20,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,4,10,256000,1
+2025-01-27,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,10,15,240000,5
+2025-01-01,Kano,Retail,Store,Blender B10,Home Appliances,30000,7,10,24000,2
+2025-04-11,Kano,Retail,Online,Smartphone Z10,Electronics,250000,5,10,200000,5
+2025-03-22,Abuja,Retail,Online,Printer P50,Electronics,150000,10,0,120000,5
+2025-04-18,Kano,Corporate,Store,Blender B10,Home Appliances,30000,2,5,24000,1
+2025-01-18,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,12,144000,2
+2025-01-13,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,1,0,240000,5
+2025-03-31,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,12,176000,3
+2025-02-01,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,7,5,48000,6
+2025-04-22,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,10,144000,2
+2025-03-28,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,0,144000,1
+2025-04-20,Kano,Retail,Online,Laptop A13,Electronics,420000,3,12,336000,6
+2025-01-25,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,3,12,48000,2
+2025-04-16,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,1,0,48000,4
+2025-02-13,Kano,Corporate,Store,Blender B10,Home Appliances,30000,10,0,24000,5
+2025-04-30,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,5,0,120000,5
+2025-02-20,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,6,5,144000,5
+2025-03-04,Lagos,Retail,Store,Sofa Classic,Furniture,320000,2,10,256000,2
+2025-01-14,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,10,15,200000,4
+2025-02-03,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,6,15,48000,5
+2025-04-04,Abuja,Retail,Store,Printer P50,Electronics,150000,7,0,120000,2
+2025-02-27,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,10,10,336000,5
+2025-03-28,Port Harcourt,Corporate,Store,Sofa Classic,Furniture,320000,2,5,256000,1
+2025-02-26,Kano,Corporate,Online,Sofa Classic,Furniture,320000,7,5,256000,2
+2025-04-12,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,2,0,200000,3
+2025-04-03,Lagos,Retail,Online,Printer P50,Electronics,150000,9,12,120000,2
+2025-02-06,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,6,5,200000,1
+2025-04-07,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,5,240000,2
+2025-03-15,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,9,10,48000,4
+2025-04-05,Kano,Retail,Store,Laptop A13,Electronics,420000,3,10,336000,5
+2025-02-10,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,4,12,68000,6
+2025-04-08,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,1,15,200000,2
+2025-03-24,Kano,Retail,Store,Desktop PC D21,Electronics,300000,10,15,240000,2
+2025-02-28,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,12,144000,6
+2025-01-09,Abuja,Retail,Online,Sofa Classic,Furniture,320000,7,15,256000,1
+2025-03-15,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,5,12,48000,3
+2025-04-09,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,4,5,68000,6
+2025-02-12,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,7,12,256000,2
+2025-02-19,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,8,15,256000,3
+2025-03-16,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,4,12,240000,6
+2025-04-14,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,15,336000,4
+2025-04-14,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,10,12,68000,4
+2025-03-09,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,8,12,240000,2
+2025-01-10,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,6,5,240000,5
+2025-04-10,Abuja,Corporate,Online,Laptop A13,Electronics,420000,8,5,336000,2
+2025-02-24,Kano,Corporate,Online,Laptop A13,Electronics,420000,8,10,336000,6
+2025-04-12,Kano,Retail,Store,Smartphone Z10,Electronics,250000,8,10,200000,5
+2025-01-11,Lagos,Corporate,Online,Laptop A13,Electronics,420000,2,15,336000,6
+2025-04-23,Abuja,Retail,Online,Blender B10,Home Appliances,30000,2,5,24000,4
+2025-03-19,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,5,0,24000,1
+2025-02-25,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,8,0,48000,2
+2025-03-14,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,15,176000,4
+2025-02-19,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,0,144000,5
+2025-01-15,Lagos,Retail,Store,Blender B10,Home Appliances,30000,8,5,24000,6
+2025-01-05,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,0,144000,4
+2025-03-30,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,5,15,48000,3
+2025-04-19,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,7,5,68000,1
+2025-04-11,Abuja,Corporate,Store,Printer P50,Electronics,150000,5,0,120000,3
+2025-01-26,Abuja,Corporate,Store,Printer P50,Electronics,150000,7,10,120000,4
+2025-03-21,Kano,Retail,Online,Office Chair Pro,Furniture,85000,4,0,68000,6
+2025-01-17,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,3,5,68000,6
+2025-04-08,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,8,12,240000,4
+2025-01-16,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,6,10,24000,4
+2025-03-10,Port Harcourt,Retail,Online,Office Chair Pro,Furniture,85000,6,10,68000,2
+2025-04-05,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,4,0,68000,2
+2025-01-05,Lagos,Retail,Store,Blender B10,Home Appliances,30000,1,0,24000,4
+2025-02-16,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,3,12,200000,3
+2025-01-26,Lagos,Retail,Online,Sofa Classic,Furniture,320000,1,10,256000,2
+2025-04-29,Kano,Retail,Store,Office Chair Pro,Furniture,85000,2,0,68000,2
+2025-02-21,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,10,0,48000,3
+2025-01-30,Lagos,Retail,Online,Blender B10,Home Appliances,30000,8,12,24000,2
+2025-01-15,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,8,10,48000,3
+2025-02-19,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,5,144000,4
+2025-03-06,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,4,0,336000,3
+2025-01-03,Kano,Retail,Online,Printer P50,Electronics,150000,4,5,120000,4
+2025-01-08,Kano,Retail,Store,Office Chair Pro,Furniture,85000,4,5,68000,6
+2025-02-01,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,12,144000,2
+2025-03-18,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,4,10,48000,1
+2025-01-29,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,9,5,176000,3
+2025-03-08,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,6,10,68000,6
+2025-03-26,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,8,10,48000,3
+2025-03-08,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,4,12,240000,1
+2025-01-06,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,9,5,176000,5
+2025-03-10,Kano,Retail,Online,Desktop PC D21,Electronics,300000,10,15,240000,6
+2025-02-15,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,2,5,256000,4
+2025-03-17,Lagos,Retail,Store,Laptop A13,Electronics,420000,9,0,336000,6
+2025-01-13,Lagos,Retail,Online,Blender B10,Home Appliances,30000,3,12,24000,4
+2025-03-12,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,7,10,48000,5
+2025-01-04,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,7,0,200000,5
+2025-01-22,Kano,Retail,Online,Sofa Classic,Furniture,320000,7,0,256000,5
+2025-01-02,Abuja,Corporate,Store,Printer P50,Electronics,150000,5,10,120000,2
+2025-03-31,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,4,0,120000,1
+2025-03-30,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,8,0,200000,5
+2025-01-02,Lagos,Retail,Online,Refrigerator R55,Home Appliances,220000,7,10,176000,2
+2025-04-15,Abuja,Retail,Online,Laptop A13,Electronics,420000,7,15,336000,2
+2025-01-15,Lagos,Retail,Store,Smartphone Z10,Electronics,250000,4,15,200000,5
+2025-03-10,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,8,5,200000,1
+2025-03-10,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,5,10,256000,6
+2025-04-24,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,5,176000,2
+2025-02-08,Lagos,Retail,Online,Office Chair Pro,Furniture,85000,8,0,68000,1
+2025-01-11,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,0,144000,5
+2025-01-08,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,4,10,240000,3
+2025-02-24,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,2,5,176000,6
+2025-02-24,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,9,10,240000,3
+2025-04-06,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,10,0,200000,6
+2025-01-25,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,1,0,68000,4
+2025-02-16,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,9,10,256000,5
+2025-03-14,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,8,5,48000,3
+2025-01-28,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,4,5,200000,1
+2025-02-16,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,3,0,240000,4
+2025-02-28,Kano,Retail,Store,Smartphone Z10,Electronics,250000,9,15,200000,4
+2025-02-17,Kano,Corporate,Online,Sofa Classic,Furniture,320000,1,15,256000,1
+2025-02-04,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,10,10,144000,2
+2025-01-31,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,6,12,48000,5
+2025-02-17,Kano,Retail,Online,Printer P50,Electronics,150000,1,15,120000,5
+2025-04-24,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,5,176000,4
+2025-04-25,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,15,144000,6
+2025-03-20,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,4,0,68000,1
+2025-03-19,Kano,Retail,Online,Desktop PC D21,Electronics,300000,7,5,240000,2
+2025-02-16,Kano,Retail,Online,Microwave M20,Home Appliances,60000,6,15,48000,4
+2025-03-08,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,4,0,176000,4
+2025-01-12,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,2,5,68000,5
+2025-03-29,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,5,200000,5
+2025-03-23,Abuja,Retail,Store,Printer P50,Electronics,150000,5,5,120000,3
+2025-02-19,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,10,5,48000,1
+2025-04-08,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,12,336000,2
+2025-03-18,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,12,144000,2
+2025-04-26,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,5,144000,4
+2025-02-27,Abuja,Retail,Store,Blender B10,Home Appliances,30000,4,12,24000,6
+2025-03-20,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,6,10,24000,1
+2025-03-02,Abuja,Retail,Online,Office Chair Pro,Furniture,85000,3,12,68000,4
+2025-03-09,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,3,10,176000,4
+2025-03-30,Abuja,Retail,Online,Printer P50,Electronics,150000,10,0,120000,6
+2025-04-26,Lagos,Retail,Store,Microwave M20,Home Appliances,60000,2,12,48000,6
+2025-02-23,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,15,144000,5
+2025-04-14,Lagos,Corporate,Store,Printer P50,Electronics,150000,3,0,120000,6
+2025-01-24,Lagos,Corporate,Store,Office Chair Pro,Furniture,85000,4,5,68000,1
+2025-02-14,Lagos,Retail,Store,Desktop PC D21,Electronics,300000,1,10,240000,5
+2025-03-04,Abuja,Corporate,Online,Blender B10,Home Appliances,30000,8,12,24000,3
+2025-04-27,Lagos,Retail,Store,Blender B10,Home Appliances,30000,10,5,24000,2
+2025-01-03,Abuja,Corporate,Store,Smartphone Z10,Electronics,250000,2,15,200000,4
+2025-01-10,Abuja,Retail,Online,Laptop A13,Electronics,420000,1,0,336000,5
+2025-02-15,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,7,12,48000,6
+2025-04-13,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,15,144000,1
+2025-03-22,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,15,144000,1
+2025-02-08,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,1,12,200000,6
+2025-05-01,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,9,5,48000,5
+2025-04-11,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,10,15,176000,6
+2025-02-09,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,4,0,176000,1
+2025-02-10,Abuja,Retail,Online,Laptop A13,Electronics,420000,3,10,336000,4
+2025-01-01,Lagos,Retail,Online,Sofa Classic,Furniture,320000,5,15,256000,2
+2025-04-19,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,5,0,68000,3
+2025-01-02,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,10,12,24000,1
+2025-02-22,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,9,15,176000,2
+2025-01-04,Kano,Corporate,Store,Printer P50,Electronics,150000,3,5,120000,4
+2025-03-06,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,15,176000,3
+2025-01-13,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,9,15,240000,1
+2025-04-17,Kano,Corporate,Online,Sofa Classic,Furniture,320000,1,15,256000,4
+2025-02-04,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,9,0,68000,3
+2025-03-13,Kano,Corporate,Store,Blender B10,Home Appliances,30000,5,12,24000,4
+2025-02-01,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,5,12,68000,1
+2025-04-17,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,9,10,48000,1
+2025-03-25,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,1,10,176000,3
+2025-04-07,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,3,0,240000,6
+2025-02-17,Kano,Corporate,Store,Desktop PC D21,Electronics,300000,7,12,240000,1
+2025-04-09,Abuja,Retail,Online,Laptop A13,Electronics,420000,10,10,336000,4
+2025-01-19,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,2,10,200000,3
+2025-01-18,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,2,5,240000,1
+2025-04-03,Lagos,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,10,144000,2
+2025-03-14,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,4,12,48000,2
+2025-02-25,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,8,5,24000,5
+2025-04-10,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,4,12,48000,4
+2025-01-25,Kano,Corporate,Online,Printer P50,Electronics,150000,5,15,120000,4
+2025-01-21,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,8,12,24000,5
+2025-04-30,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,15,144000,5
+2025-04-15,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,6,15,68000,1
+2025-03-15,Lagos,Corporate,Online,Office Chair Pro,Furniture,85000,5,5,68000,6
+2025-01-15,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,10,176000,3
+2025-02-08,Kano,Retail,Store,Sofa Classic,Furniture,320000,6,15,256000,3
+2025-03-20,Kano,Retail,Store,Desktop PC D21,Electronics,300000,4,15,240000,6
+2025-02-08,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,9,12,176000,6
+2025-03-10,Kano,Corporate,Online,Blender B10,Home Appliances,30000,2,0,24000,4
+2025-02-14,Kano,Corporate,Online,Office Chair Pro,Furniture,85000,5,12,68000,6
+2025-01-01,Kano,Retail,Online,Office Chair Pro,Furniture,85000,4,15,68000,1
+2025-01-21,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,10,176000,5
+2025-04-22,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,7,15,200000,5
+2025-02-09,Kano,Retail,Store,Desktop PC D21,Electronics,300000,5,12,240000,5
+2025-04-07,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,8,15,240000,4
+2025-02-10,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,9,15,144000,4
+2025-02-06,Kano,Corporate,Online,Printer P50,Electronics,150000,6,10,120000,4
+2025-02-11,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,12,144000,2
+2025-04-02,Abuja,Corporate,Online,Laptop A13,Electronics,420000,7,15,336000,3
+2025-04-09,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,10,10,48000,3
+2025-02-20,Kano,Retail,Online,Laptop A13,Electronics,420000,10,15,336000,2
+2025-03-13,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,8,10,120000,2
+2025-02-16,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,10,176000,5
+2025-04-07,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,1,15,144000,3
+2025-04-26,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,8,15,68000,2
+2025-02-17,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,10,0,200000,2
+2025-04-01,Port Harcourt,Retail,Online,Blender B10,Home Appliances,30000,5,15,24000,4
+2025-01-11,Abuja,Corporate,Online,Laptop A13,Electronics,420000,4,0,336000,4
+2025-02-22,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,0,144000,2
+2025-01-07,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,8,12,48000,6
+2025-03-28,Kano,Corporate,Store,Printer P50,Electronics,150000,1,0,120000,1
+2025-04-18,Lagos,Retail,Store,Blender B10,Home Appliances,30000,6,15,24000,6
+2025-02-23,Port Harcourt,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,0,176000,4
+2025-04-07,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,12,144000,3
+2025-01-06,Kano,Corporate,Store,Printer P50,Electronics,150000,3,12,120000,1
+2025-01-07,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,2,5,144000,6
+2025-02-18,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,15,336000,1
+2025-01-25,Kano,Corporate,Online,Printer P50,Electronics,150000,2,15,120000,5
+2025-01-25,Port Harcourt,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,10,176000,4
+2025-04-24,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,5,10,48000,3
+2025-04-19,Kano,Retail,Online,Printer P50,Electronics,150000,2,15,120000,1
+2025-01-23,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,10,144000,4
+2025-01-15,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,2,12,176000,2
+2025-01-29,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,1,10,48000,2
+2025-03-31,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,6,10,176000,4
+2025-01-05,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,7,15,336000,2
+2025-04-13,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,15,144000,2
+2025-02-03,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,9,15,48000,1
+2025-02-18,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,3,5,48000,6
+2025-04-20,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,7,0,48000,4
+2025-01-17,Kano,Retail,Store,Sofa Classic,Furniture,320000,8,5,256000,5
+2025-02-22,Kano,Retail,Store,Office Chair Pro,Furniture,85000,7,10,68000,1
+2025-02-06,Kano,Retail,Online,Microwave M20,Home Appliances,60000,2,10,48000,6
+2025-03-19,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,9,15,120000,4
+2025-02-08,Lagos,Retail,Store,Printer P50,Electronics,150000,4,15,120000,5
+2025-03-31,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,5,200000,3
+2025-03-06,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,3,0,240000,4
+2025-01-06,Abuja,Retail,Store,Printer P50,Electronics,150000,10,5,120000,1
+2025-04-29,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,6,5,336000,5
+2025-02-14,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,8,5,176000,1
+2025-01-17,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,6,12,48000,1
+2025-01-29,Abuja,Corporate,Online,Printer P50,Electronics,150000,9,5,120000,1
+2025-02-03,Port Harcourt,Retail,Online,Sofa Classic,Furniture,320000,1,10,256000,6
+2025-03-27,Kano,Corporate,Store,Sofa Classic,Furniture,320000,10,15,256000,2
+2025-04-11,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,8,15,144000,1
+2025-01-22,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,7,5,336000,3
+2025-01-17,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,0,144000,4
+2025-02-17,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,8,10,200000,6
+2025-02-11,Kano,Retail,Store,Sofa Classic,Furniture,320000,4,0,256000,2
+2025-01-03,Lagos,Corporate,Store,Laptop A13,Electronics,420000,2,12,336000,1
+2025-03-03,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,5,12,144000,3
+2025-03-05,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,1,10,200000,3
+2025-03-14,Lagos,Corporate,Store,Laptop A13,Electronics,420000,2,5,336000,5
+2025-03-06,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,2,12,48000,5
+2025-01-09,Lagos,Corporate,Online,Sofa Classic,Furniture,320000,8,15,256000,3
+2025-02-20,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,2,5,176000,6
+2025-04-12,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,5,15,176000,2
+2025-03-26,Kano,Corporate,Online,Sofa Classic,Furniture,320000,7,12,256000,4
+2025-01-17,Port Harcourt,Retail,Online,Printer P50,Electronics,150000,3,0,120000,2
+2025-04-18,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,6,10,144000,3
+2025-04-10,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,5,144000,5
+2025-03-04,Kano,Retail,Online,Desktop PC D21,Electronics,300000,5,10,240000,6
+2025-04-12,Kano,Retail,Store,Smartphone Z10,Electronics,250000,10,15,200000,2
+2025-03-03,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,1,15,24000,2
+2025-01-10,Abuja,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,5,176000,5
+2025-03-06,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,4,0,200000,1
+2025-03-05,Kano,Corporate,Online,Blender B10,Home Appliances,30000,2,5,24000,2
+2025-02-22,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,10,15,24000,1
+2025-04-03,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,9,0,200000,5
+2025-01-03,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,9,5,256000,5
+2025-01-26,Abuja,Retail,Store,Printer P50,Electronics,150000,2,5,120000,6
+2025-04-20,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,5,15,256000,3
+2025-03-25,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,7,12,176000,5
+2025-04-12,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,5,144000,3
+2025-03-30,Kano,Retail,Store,Desktop PC D21,Electronics,300000,1,10,240000,4
+2025-01-13,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,5,15,48000,2
+2025-04-15,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,8,0,144000,4
+2025-01-03,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,1,12,200000,6
+2025-04-11,Kano,Corporate,Store,Sofa Classic,Furniture,320000,3,12,256000,5
+2025-04-06,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,15,24000,4
+2025-01-08,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,2,0,200000,1
+2025-02-20,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,9,15,200000,3
+2025-03-30,Kano,Retail,Store,Microwave M20,Home Appliances,60000,10,15,48000,1
+2025-02-17,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,5,5,200000,1
+2025-02-18,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,9,10,240000,6
+2025-01-28,Kano,Retail,Online,Office Chair Pro,Furniture,85000,9,10,68000,1
+2025-01-05,Kano,Retail,Store,Laptop A13,Electronics,420000,3,10,336000,3
+2025-03-25,Kano,Retail,Store,Printer P50,Electronics,150000,2,15,120000,3
+2025-01-15,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,15,176000,6
+2025-02-08,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,10,15,240000,4
+2025-01-17,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,3,15,68000,1
+2025-04-03,Port Harcourt,Corporate,Store,Microwave M20,Home Appliances,60000,2,15,48000,4
+2025-03-09,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,8,10,176000,1
+2025-01-17,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,8,0,240000,6
+2025-04-21,Kano,Retail,Online,Desktop PC D21,Electronics,300000,8,0,240000,1
+2025-01-20,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,10,336000,3
+2025-02-09,Kano,Corporate,Store,Sofa Classic,Furniture,320000,4,10,256000,5
+2025-04-19,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,1,15,176000,6
+2025-01-25,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,4,12,144000,6
+2025-03-15,Kano,Retail,Store,Microwave M20,Home Appliances,60000,7,10,48000,1
+2025-04-26,Abuja,Corporate,Online,Printer P50,Electronics,150000,8,0,120000,6
+2025-02-20,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,4,12,120000,5
+2025-03-05,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,10,5,200000,3
+2025-02-15,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,15,336000,6
+2025-02-21,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,12,144000,3
+2025-02-27,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,3,10,256000,3
+2025-04-30,Kano,Corporate,Store,Sofa Classic,Furniture,320000,8,12,256000,4
+2025-02-07,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,2,0,176000,1
+2025-01-12,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,5,15,144000,4
+2025-01-06,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,1,15,336000,5
+2025-03-08,Lagos,Corporate,Online,Laptop A13,Electronics,420000,1,12,336000,2
+2025-03-25,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,4,0,68000,4
+2025-02-04,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,2,5,68000,1
+2025-04-08,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,6,10,48000,1
+2025-02-28,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,12,144000,2
+2025-02-12,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,5,0,24000,6
+2025-04-07,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,1,10,68000,4
+2025-04-17,Lagos,Corporate,Store,Printer P50,Electronics,150000,9,12,120000,3
+2025-01-26,Lagos,Corporate,Store,Printer P50,Electronics,150000,9,5,120000,1
+2025-02-12,Lagos,Corporate,Store,Desktop PC D21,Electronics,300000,10,12,240000,1
+2025-02-27,Abuja,Retail,Store,Microwave M20,Home Appliances,60000,2,5,48000,4
+2025-01-11,Port Harcourt,Corporate,Online,Office Chair Pro,Furniture,85000,8,10,68000,5
+2025-04-09,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,10,0,48000,1
+2025-01-20,Abuja,Retail,Store,Sofa Classic,Furniture,320000,7,0,256000,3
+2025-03-21,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,10,0,48000,6
+2025-04-22,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,2,12,200000,6
+2025-04-07,Kano,Corporate,Store,Air Conditioner X2,Home Appliances,180000,10,5,144000,5
+2025-03-26,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,10,10,256000,5
+2025-03-02,Kano,Corporate,Store,Printer P50,Electronics,150000,9,15,120000,6
+2025-03-06,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,5,176000,4
+2025-03-09,Lagos,Corporate,Store,Laptop A13,Electronics,420000,2,10,336000,4
+2025-02-12,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,1,5,176000,2
+2025-01-01,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,2,0,176000,2
+2025-03-30,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,9,15,68000,2
+2025-04-23,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,4,0,256000,6
+2025-03-06,Lagos,Retail,Store,Blender B10,Home Appliances,30000,2,12,24000,3
+2025-03-31,Lagos,Corporate,Store,Laptop A13,Electronics,420000,6,12,336000,5
+2025-03-21,Abuja,Retail,Store,Blender B10,Home Appliances,30000,1,5,24000,2
+2025-02-21,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,9,10,48000,5
+2025-03-18,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,10,0,48000,3
+2025-01-15,Port Harcourt,Corporate,Online,Smartphone Z10,Electronics,250000,6,5,200000,4
+2025-02-08,Kano,Retail,Store,Refrigerator R55,Home Appliances,220000,5,15,176000,2
+2025-01-28,Port Harcourt,Corporate,Store,Blender B10,Home Appliances,30000,2,12,24000,6
+2025-01-29,Port Harcourt,Corporate,Online,Laptop A13,Electronics,420000,4,15,336000,2
+2025-04-18,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,3,0,48000,5
+2025-01-19,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,1,10,336000,1
+2025-01-31,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,0,176000,5
+2025-04-05,Abuja,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,5,144000,4
+2025-01-10,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,9,0,48000,5
+2025-02-04,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,8,10,240000,6
+2025-02-02,Port Harcourt,Retail,Online,Air Conditioner X2,Home Appliances,180000,1,12,144000,5
+2025-03-01,Abuja,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,12,144000,6
+2025-01-17,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,2,0,144000,4
+2025-01-03,Kano,Retail,Store,Microwave M20,Home Appliances,60000,2,5,48000,4
+2025-02-27,Lagos,Corporate,Online,Laptop A13,Electronics,420000,7,15,336000,6
+2025-03-06,Lagos,Corporate,Store,Laptop A13,Electronics,420000,9,12,336000,4
+2025-01-10,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,5,12,240000,2
+2025-02-12,Port Harcourt,Retail,Store,Printer P50,Electronics,150000,3,12,120000,4
+2025-02-01,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,15,336000,6
+2025-03-14,Kano,Retail,Online,Office Chair Pro,Furniture,85000,9,5,68000,4
+2025-03-17,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,6,15,48000,1
+2025-01-08,Abuja,Corporate,Store,Laptop A13,Electronics,420000,9,10,336000,5
+2025-01-10,Port Harcourt,Retail,Store,Blender B10,Home Appliances,30000,7,12,24000,4
+2025-02-28,Port Harcourt,Retail,Store,Desktop PC D21,Electronics,300000,9,12,240000,1
+2025-03-06,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,2,10,200000,5
+2025-03-31,Abuja,Retail,Online,Laptop A13,Electronics,420000,3,5,336000,4
+2025-03-07,Kano,Retail,Online,Office Chair Pro,Furniture,85000,9,0,68000,4
+2025-03-21,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,1,5,336000,1
+2025-03-31,Port Harcourt,Corporate,Online,Printer P50,Electronics,150000,1,12,120000,3
+2025-01-13,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,15,144000,2
+2025-03-18,Abuja,Corporate,Store,Desktop PC D21,Electronics,300000,7,5,240000,4
+2025-02-03,Kano,Retail,Online,Sofa Classic,Furniture,320000,6,5,256000,2
+2025-02-09,Abuja,Retail,Store,Blender B10,Home Appliances,30000,10,5,24000,4
+2025-01-09,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,4,0,24000,4
+2025-01-06,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,6,15,200000,1
+2025-01-27,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,6,5,256000,5
+2025-02-15,Lagos,Corporate,Online,Microwave M20,Home Appliances,60000,3,0,48000,4
+2025-01-10,Kano,Corporate,Online,Blender B10,Home Appliances,30000,8,12,24000,6
+2025-01-13,Kano,Retail,Store,Printer P50,Electronics,150000,5,0,120000,4
+2025-03-07,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,9,10,200000,6
+2025-04-11,Abuja,Retail,Store,Refrigerator R55,Home Appliances,220000,9,10,176000,6
+2025-03-09,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,10,0,200000,2
+2025-01-20,Abuja,Corporate,Store,Blender B10,Home Appliances,30000,9,10,24000,6
+2025-02-18,Abuja,Retail,Store,Desktop PC D21,Electronics,300000,2,5,240000,3
+2025-01-01,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,5,12,48000,3
+2025-04-09,Abuja,Corporate,Online,Office Chair Pro,Furniture,85000,6,10,68000,1
+2025-01-13,Abuja,Retail,Store,Printer P50,Electronics,150000,10,15,120000,6
+2025-04-16,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,9,0,68000,6
+2025-03-25,Kano,Corporate,Online,Laptop A13,Electronics,420000,4,5,336000,6
+2025-01-28,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,9,12,176000,3
+2025-02-17,Abuja,Retail,Online,Laptop A13,Electronics,420000,7,15,336000,6
+2025-01-27,Abuja,Corporate,Online,Laptop A13,Electronics,420000,5,10,336000,5
+2025-04-22,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,9,5,48000,1
+2025-01-25,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,9,0,256000,4
+2025-03-06,Kano,Retail,Store,Office Chair Pro,Furniture,85000,7,0,68000,6
+2025-01-06,Port Harcourt,Corporate,Store,Office Chair Pro,Furniture,85000,3,10,68000,6
+2025-02-05,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,10,0,68000,5
+2025-01-31,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,6,5,200000,4
+2025-02-05,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,3,10,256000,3
+2025-02-12,Port Harcourt,Retail,Online,Smartphone Z10,Electronics,250000,5,5,200000,5
+2025-01-28,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,10,12,48000,5
+2025-04-20,Lagos,Corporate,Online,Desktop PC D21,Electronics,300000,3,10,240000,6
+2025-02-09,Abuja,Retail,Store,Blender B10,Home Appliances,30000,8,5,24000,3
+2025-02-11,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,1,0,144000,4
+2025-04-04,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,0,176000,5
+2025-03-09,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,8,5,200000,6
+2025-01-07,Port Harcourt,Retail,Store,Sofa Classic,Furniture,320000,6,10,256000,5
+2025-02-02,Kano,Corporate,Online,Desktop PC D21,Electronics,300000,4,12,240000,6
+2025-04-26,Lagos,Retail,Online,Microwave M20,Home Appliances,60000,4,15,48000,3
+2025-03-26,Kano,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,0,144000,6
+2025-02-17,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,4,12,200000,2
+2025-03-04,Port Harcourt,Retail,Online,Desktop PC D21,Electronics,300000,8,5,240000,1
+2025-03-24,Kano,Retail,Online,Sofa Classic,Furniture,320000,8,0,256000,3
+2025-03-25,Abuja,Retail,Store,Office Chair Pro,Furniture,85000,1,15,68000,2
+2025-04-20,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,6,15,200000,5
+2025-02-21,Abuja,Retail,Online,Refrigerator R55,Home Appliances,220000,7,15,176000,6
+2025-03-16,Abuja,Retail,Online,Blender B10,Home Appliances,30000,6,12,24000,3
+2025-02-19,Kano,Retail,Store,Sofa Classic,Furniture,320000,2,5,256000,1
+2025-01-06,Kano,Retail,Store,Smartphone Z10,Electronics,250000,8,0,200000,2
+2025-03-22,Kano,Retail,Online,Smartphone Z10,Electronics,250000,5,12,200000,4
+2025-04-26,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,2,15,144000,6
+2025-03-31,Port Harcourt,Corporate,Online,Microwave M20,Home Appliances,60000,6,0,48000,2
+2025-02-09,Lagos,Retail,Store,Refrigerator R55,Home Appliances,220000,10,0,176000,6
+2025-01-18,Port Harcourt,Retail,Online,Refrigerator R55,Home Appliances,220000,6,15,176000,5
+2025-04-15,Kano,Corporate,Online,Printer P50,Electronics,150000,3,10,120000,3
+2025-04-01,Kano,Corporate,Store,Sofa Classic,Furniture,320000,6,10,256000,5
+2025-01-16,Lagos,Retail,Store,Blender B10,Home Appliances,30000,10,10,24000,4
+2025-02-06,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,4,10,48000,1
+2025-03-27,Kano,Corporate,Store,Refrigerator R55,Home Appliances,220000,8,15,176000,1
+2025-02-16,Abuja,Corporate,Online,Printer P50,Electronics,150000,8,0,120000,2
+2025-01-12,Lagos,Corporate,Store,Air Conditioner X2,Home Appliances,180000,9,0,144000,3
+2025-02-04,Lagos,Retail,Store,Office Chair Pro,Furniture,85000,9,5,68000,3
+2025-01-02,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,6,15,144000,4
+2025-02-02,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,4,10,176000,6
+2025-01-08,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,4,0,68000,5
+2025-02-13,Lagos,Retail,Online,Air Conditioner X2,Home Appliances,180000,7,0,144000,3
+2025-04-08,Port Harcourt,Corporate,Store,Air Conditioner X2,Home Appliances,180000,1,10,144000,1
+2025-04-04,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,6,5,48000,4
+2025-03-31,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,9,0,48000,3
+2025-03-24,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,9,10,144000,5
+2025-03-05,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,2,10,200000,6
+2025-01-30,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,4,10,256000,2
+2025-03-05,Abuja,Retail,Online,Printer P50,Electronics,150000,8,0,120000,5
+2025-03-22,Kano,Corporate,Online,Smartphone Z10,Electronics,250000,9,15,200000,5
+2025-01-28,Kano,Corporate,Store,Blender B10,Home Appliances,30000,6,12,24000,6
+2025-03-31,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,6,5,336000,5
+2025-02-24,Abuja,Retail,Online,Air Conditioner X2,Home Appliances,180000,3,5,144000,6
+2025-01-31,Kano,Retail,Online,Printer P50,Electronics,150000,6,5,120000,3
+2025-04-18,Abuja,Corporate,Store,Sofa Classic,Furniture,320000,9,5,256000,3
+2025-02-02,Port Harcourt,Retail,Store,Smartphone Z10,Electronics,250000,2,0,200000,3
+2025-03-15,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,7,0,240000,4
+2025-04-10,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,6,10,256000,5
+2025-04-10,Abuja,Corporate,Store,Office Chair Pro,Furniture,85000,10,15,68000,5
+2025-01-13,Abuja,Retail,Online,Printer P50,Electronics,150000,8,0,120000,1
+2025-02-17,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,10,12,240000,5
+2025-02-22,Kano,Corporate,Store,Sofa Classic,Furniture,320000,8,12,256000,2
+2025-04-10,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,7,0,200000,1
+2025-03-08,Lagos,Corporate,Store,Blender B10,Home Appliances,30000,7,5,24000,5
+2025-04-27,Abuja,Retail,Online,Microwave M20,Home Appliances,60000,1,5,48000,4
+2025-01-14,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,1,15,200000,1
+2025-02-28,Port Harcourt,Retail,Store,Microwave M20,Home Appliances,60000,3,10,48000,5
+2025-04-08,Port Harcourt,Retail,Store,Laptop A13,Electronics,420000,2,10,336000,2
+2025-01-13,Lagos,Retail,Online,Desktop PC D21,Electronics,300000,10,12,240000,5
+2025-04-06,Port Harcourt,Retail,Store,Refrigerator R55,Home Appliances,220000,1,12,176000,3
+2025-05-01,Kano,Retail,Store,Smartphone Z10,Electronics,250000,10,12,200000,3
+2025-04-19,Lagos,Retail,Store,Air Conditioner X2,Home Appliances,180000,4,15,144000,4
+2025-01-31,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,7,12,176000,4
+2025-03-19,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,3,5,68000,3
+2025-01-07,Abuja,Retail,Store,Smartphone Z10,Electronics,250000,9,15,200000,2
+2025-03-07,Kano,Corporate,Online,Microwave M20,Home Appliances,60000,6,15,48000,3
+2025-02-16,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,3,12,144000,6
+2025-03-02,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,9,12,48000,3
+2025-04-13,Kano,Corporate,Online,Laptop A13,Electronics,420000,6,10,336000,2
+2025-01-19,Abuja,Retail,Online,Blender B10,Home Appliances,30000,2,0,24000,3
+2025-04-01,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,9,0,200000,1
+2025-03-21,Abuja,Corporate,Online,Microwave M20,Home Appliances,60000,9,5,48000,2
+2025-04-03,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,1,12,200000,3
+2025-03-20,Kano,Corporate,Online,Air Conditioner X2,Home Appliances,180000,10,15,144000,5
+2025-04-14,Lagos,Corporate,Store,Smartphone Z10,Electronics,250000,5,10,200000,5
+2025-01-24,Port Harcourt,Corporate,Online,Air Conditioner X2,Home Appliances,180000,8,10,144000,2
+2025-04-12,Kano,Retail,Store,Air Conditioner X2,Home Appliances,180000,10,12,144000,5
+2025-03-01,Abuja,Retail,Online,Blender B10,Home Appliances,30000,8,12,24000,4
+2025-04-01,Kano,Retail,Online,Blender B10,Home Appliances,30000,1,12,24000,1
+2025-01-09,Lagos,Corporate,Store,Microwave M20,Home Appliances,60000,6,10,48000,2
+2025-05-01,Port Harcourt,Corporate,Store,Smartphone Z10,Electronics,250000,10,5,200000,1
+2025-02-09,Port Harcourt,Corporate,Online,Sofa Classic,Furniture,320000,10,12,256000,4
+2025-04-18,Abuja,Corporate,Online,Laptop A13,Electronics,420000,3,10,336000,1
+2025-04-22,Lagos,Retail,Store,Laptop A13,Electronics,420000,10,5,336000,2
+2025-01-24,Abuja,Corporate,Store,Refrigerator R55,Home Appliances,220000,5,10,176000,2
+2025-04-22,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,2,10,200000,5
+2025-02-09,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,4,12,200000,1
+2025-03-18,Abuja,Corporate,Online,Smartphone Z10,Electronics,250000,8,15,200000,6
+2025-04-09,Abuja,Corporate,Online,Desktop PC D21,Electronics,300000,2,15,240000,4
+2025-04-02,Lagos,Retail,Online,Smartphone Z10,Electronics,250000,7,10,200000,5
+2025-04-13,Kano,Corporate,Store,Microwave M20,Home Appliances,60000,9,10,48000,1
+2025-01-14,Kano,Retail,Online,Sofa Classic,Furniture,320000,2,15,256000,2
+2025-01-09,Abuja,Corporate,Store,Air Conditioner X2,Home Appliances,180000,3,0,144000,5
+2025-03-03,Port Harcourt,Corporate,Store,Laptop A13,Electronics,420000,2,12,336000,3
+2025-03-02,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,7,15,176000,3
+2025-01-22,Abuja,Retail,Online,Smartphone Z10,Electronics,250000,6,12,200000,2
+2025-02-24,Abuja,Retail,Store,Laptop A13,Electronics,420000,1,5,336000,2
+2025-04-05,Abuja,Retail,Store,Laptop A13,Electronics,420000,9,0,336000,3
+2025-01-10,Abuja,Retail,Online,Desktop PC D21,Electronics,300000,8,15,240000,3
+2025-04-24,Kano,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,0,176000,5
+2025-03-14,Port Harcourt,Retail,Online,Microwave M20,Home Appliances,60000,9,12,48000,5
+2025-03-20,Lagos,Retail,Store,Laptop A13,Electronics,420000,9,12,336000,5
+2025-03-27,Kano,Retail,Online,Laptop A13,Electronics,420000,5,10,336000,1
+2025-05-01,Abuja,Corporate,Store,Microwave M20,Home Appliances,60000,7,10,48000,2
+2025-03-21,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,2,5,176000,4
+2025-04-24,Abuja,Corporate,Online,Sofa Classic,Furniture,320000,7,5,256000,4
+2025-03-18,Kano,Corporate,Store,Office Chair Pro,Furniture,85000,2,12,68000,2
+2025-01-12,Kano,Retail,Online,Refrigerator R55,Home Appliances,220000,2,12,176000,6
+2025-04-09,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,3,10,176000,4
+2025-03-29,Lagos,Corporate,Online,Refrigerator R55,Home Appliances,220000,6,0,176000,4
+2025-01-31,Kano,Retail,Store,Laptop A13,Electronics,420000,6,12,336000,4
+2025-02-17,Port Harcourt,Retail,Store,Office Chair Pro,Furniture,85000,7,0,68000,2
+2025-03-25,Port Harcourt,Corporate,Online,Desktop PC D21,Electronics,300000,4,12,240000,5
+2025-04-10,Kano,Corporate,Store,Smartphone Z10,Electronics,250000,2,10,200000,4
+2025-04-14,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,6,12,200000,4
+2025-03-14,Lagos,Corporate,Online,Smartphone Z10,Electronics,250000,5,5,200000,3
+2025-04-30,Lagos,Corporate,Online,Laptop A13,Electronics,420000,8,0,336000,2
+2025-02-25,Kano,Corporate,Store,Sofa Classic,Furniture,320000,4,15,256000,1
+2025-03-23,Port Harcourt,Corporate,Store,Printer P50,Electronics,150000,4,10,120000,5
+2025-02-26,Lagos,Corporate,Store,Refrigerator R55,Home Appliances,220000,1,0,176000,5
+2025-03-06,Abuja,Retail,Store,Blender B10,Home Appliances,30000,4,12,24000,2
